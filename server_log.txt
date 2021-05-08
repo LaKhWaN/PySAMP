@@ -1,0 +1,2727 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:22:55] 
+[20:22:55] Server Plugins
+[20:22:55] --------------
+[20:22:55]  Loading plugin: PySAMP.dll
+[20:22:55]   Failed.
+[20:22:55]  Loaded 0 plugins.
+
+[20:22:55] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:22:55] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:25:10] 
+[20:25:10] Server Plugins
+[20:25:10] --------------
+[20:25:10]  Loading plugin: PySAMP.dll
+[20:25:10]   Failed.
+[20:25:10]  Loaded 0 plugins.
+
+[20:25:10] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:25:10] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:27:29] 
+[20:27:29] Server Plugins
+[20:27:29] --------------
+[20:27:29]  Loading plugin: PySAMP.dll
+[20:27:29]   Failed.
+[20:27:29]  Loaded 0 plugins.
+
+[20:27:29] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:27:29] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:27:40] 
+[20:27:40] Server Plugins
+[20:27:40] --------------
+[20:27:40]  Loading plugin: PySAMP.dll
+[20:27:40]   Failed.
+[20:27:40]  Loaded 0 plugins.
+
+[20:27:40] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:27:40] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:27:43] 
+[20:27:43] Server Plugins
+[20:27:43] --------------
+[20:27:43]  Loading plugin: PySAMP.dll
+[20:27:43]   Failed.
+[20:27:43]  Loaded 0 plugins.
+
+[20:27:43] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:27:43] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:38:32] 
+[20:38:32] Server Plugins
+[20:38:32] --------------
+[20:38:32]  Loading plugin: PySAMP.dll
+[20:38:32]   Failed.
+[20:38:32]  Loaded 0 plugins.
+
+[20:38:32] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:38:32] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:39:59] 
+[20:39:59] Server Plugins
+[20:39:59] --------------
+[20:39:59]  Loading plugin: PySAMP.dll
+[20:39:59]   Failed.
+[20:39:59]  Loaded 0 plugins.
+
+[20:39:59] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:39:59] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:13:49] 
+[21:13:49] Server Plugins
+[21:13:49] --------------
+[21:13:49]  Loading plugin: PySAMP.dll
+[21:13:49]   Failed.
+[21:13:49]  Loaded 0 plugins.
+
+[21:13:49] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:13:49] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:13:58] 
+[21:13:58] Server Plugins
+[21:13:58] --------------
+[21:13:58]  Loading plugin: PySAMP.dll
+[21:13:58]   Failed.
+[21:13:58]  Loaded 0 plugins.
+
+[21:13:58] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:13:58] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:15:41] 
+[21:15:41] Server Plugins
+[21:15:41] --------------
+[21:15:41]  Loading plugin: PySAMP.dll
+[21:15:41]   Failed.
+[21:15:41]  Loaded 0 plugins.
+
+[21:15:41] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:15:41] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:15:47] 
+[21:15:47] Server Plugins
+[21:15:47] --------------
+[21:15:47]  Loading plugin: PySAMP.dll
+[21:15:47]   Failed.
+[21:15:47]  Loaded 0 plugins.
+
+[21:15:47] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:15:47] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:30:07] 
+[21:30:07] Server Plugins
+[21:30:07] --------------
+[21:30:07]  Loading plugin: PySAMP.dll
+[21:30:07]   Loaded.
+[21:30:07]  Loaded 1 plugins.
+
+[21:30:07] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:30:07] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:34:33] 
+[21:34:33] Server Plugins
+[21:34:33] --------------
+[21:34:33]  Loading plugin: PySAMP.dll
+[21:34:33]   Loaded.
+[21:34:33]  Loaded 1 plugins.
+
+[21:34:33] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:34:33] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:38:28] 
+[21:38:28] Server Plugins
+[21:38:28] --------------
+[21:38:28]  Loading plugin: PySAMP.dll
+[21:38:28]   Loaded.
+[21:38:28]  Loaded 1 plugins.
+
+[21:38:28] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:38:28] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:50:30] 
+[21:50:30] Server Plugins
+[21:50:30] --------------
+[21:50:30]  Loading plugin: PySAMP.dll
+[21:50:30]   Loaded.
+[21:50:30]  Loaded 1 plugins.
+
+[21:50:30] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:50:30] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:56:43] 
+[21:56:43] Server Plugins
+[21:56:43] --------------
+[21:56:43]  Loading plugin: PySAMP.dll
+[21:56:43]   Loaded.
+[21:56:43]  Loaded 1 plugins.
+
+[21:56:43] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:56:43] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:01:18] 
+[22:01:18] Server Plugins
+[22:01:18] --------------
+[22:01:18]  Loading plugin: PySAMP.dll
+[22:01:18]   Loaded.
+[22:01:18]  Loaded 1 plugins.
+
+[22:01:19] 
+[22:01:19] Filterscripts
+[22:01:19] ---------------
+[22:01:19]   Loaded 0 filterscripts.
+
+[22:01:19] Loading PYSAMP
+[22:01:19] Loading PySAMP gamemode
+[22:01:19] PyGamemode::PyGamemode(\python)
+[22:01:19] Number of vehicle models: 0
+[22:01:19] Initializing Threading
+[22:01:19] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:09] 
+[22:03:09] Server Plugins
+[22:03:09] --------------
+[22:03:09]  Loading plugin: PySAMP.dll
+[22:03:09]   Loaded.
+[22:03:09]  Loaded 1 plugins.
+
+[22:03:09] 
+[22:03:09] Filterscripts
+[22:03:09] ---------------
+[22:03:09]   Loaded 0 filterscripts.
+
+[22:03:09] Loading PYSAMP
+[22:03:09] Loading PySAMP gamemode
+[22:03:09] PyGamemode::PyGamemode(\python)
+[22:03:09] Number of vehicle models: 0
+[22:03:09] Initializing Threading
+[22:03:09] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:17] 
+[22:03:17] Server Plugins
+[22:03:17] --------------
+[22:03:17]  Loading plugin: PySAMP.dll
+[22:03:17]   Loaded.
+[22:03:17]  Loaded 1 plugins.
+
+[22:03:17] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:03:17] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:43] 
+[22:03:43] Server Plugins
+[22:03:43] --------------
+[22:03:43]  Loading plugin: PySAMP.dll
+[22:03:43]   Loaded.
+[22:03:43]  Loaded 1 plugins.
+
+[22:03:43] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:03:43] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:47] 
+[22:03:47] Server Plugins
+[22:03:47] --------------
+[22:03:47]  Loading plugin: PySAMP.dll
+[22:03:47]   Loaded.
+[22:03:47]  Loaded 1 plugins.
+
+[22:03:47] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:03:47] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:05:27] 
+[22:05:27] Server Plugins
+[22:05:27] --------------
+[22:05:27]  Loading plugin: PySAMP.dll
+[22:05:27]   Loaded.
+[22:05:27]  Loaded 1 plugins.
+
+[22:05:27] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:05:27] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:06:02] 
+[22:06:02] Server Plugins
+[22:06:02] --------------
+[22:06:02]  Loading plugin: PySAMP.dll
+[22:06:02]   Loaded.
+[22:06:02]  Loaded 1 plugins.
+
+[22:06:02] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:06:02] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:08:40] 
+[22:08:40] Server Plugins
+[22:08:40] --------------
+[22:08:40]  Loading plugin: PySAMP.dll
+[22:08:40]   Loaded.
+[22:08:40]  Loaded 1 plugins.
+
+[22:08:40] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:08:40] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:15:16] 
+[22:15:16] Server Plugins
+[22:15:16] --------------
+[22:15:16]  Loading plugin: PySAMP.dll
+[22:15:16]   Loaded.
+[22:15:16]  Loaded 1 plugins.
+
+[22:15:16] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:15:16] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:15:30] 
+[22:15:30] Server Plugins
+[22:15:30] --------------
+[22:15:30]  Loading plugin: PySAMP.dll
+[22:15:30]   Loaded.
+[22:15:30]  Loaded 1 plugins.
+
+[22:15:30] I couldn't load any gamemode scripts. Please verify your server.cfg
+[22:15:30] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:15:45] 
+[22:15:45] Server Plugins
+[22:15:45] --------------
+[22:15:45]  Loading plugin: PySAMP.dll
+[22:15:45]   Loaded.
+[22:15:45]  Loaded 1 plugins.
+
+[22:15:45] 
+[22:15:45] Filterscripts
+[22:15:45] ---------------
+[22:15:45]   Loaded 0 filterscripts.
+
+[22:15:45] Loading PYSAMP
+[22:15:45] Loading PySAMP gamemode
+[22:15:45] PyGamemode::PyGamemode(\python)
+[22:15:45] Initializing Threading
+[22:15:45] Number of vehicle models: 0
+[22:15:45] Initialized Threading
+[22:18:07] [connection] 192.168.29.204:53913 requests connection cookie.
+[22:18:08] [connection] incoming connection: 192.168.29.204:53913 id: 0
+[22:18:08] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:14:41] 
+[09:14:41] Server Plugins
+[09:14:41] --------------
+[09:14:41]  Loading plugin: PySAMP.dll
+[09:14:41]   Loaded.
+[09:14:41]  Loaded 1 plugins.
+
+[09:14:41] 
+[09:14:41] Filterscripts
+[09:14:41] ---------------
+[09:14:41]   Loaded 0 filterscripts.
+
+[09:14:41] Loading PYSAMP
+[09:14:41] Loading PySAMP gamemode
+[09:14:41] PyGamemode::PyGamemode(\python)
+[09:14:41] Initializing Threading
+[09:14:41] Initialized Threading
+[09:14:41] Number of vehicle models: 0
+[09:16:03] [connection] 192.168.29.204:50034 requests connection cookie.
+[09:16:04] [connection] incoming connection: 192.168.29.204:50034 id: 0
+[09:16:04] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[09:16:06] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[10:14:14] --- Server Shutting Down.
+[10:14:14] Stopping PYSAMP-Threading
+[10:14:14] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:14:20] 
+[10:14:20] Server Plugins
+[10:14:20] --------------
+[10:14:20]  Loading plugin: PySAMP.dll
+[10:14:20]   Loaded.
+[10:14:20]  Loaded 1 plugins.
+
+[10:14:20] 
+[10:14:20] Filterscripts
+[10:14:20] ---------------
+[10:14:20]   Loaded 0 filterscripts.
+
+[10:14:20] Loading PYSAMP
+[10:14:20] Loading PySAMP gamemode
+[10:14:20] PyGamemode::PyGamemode(\python)
+[10:14:20] PyGamemode::PyGamemode(gamemode.py) failed!
+[10:14:20] Number of vehicle models: 0
+[10:14:20] Initializing Threading
+[10:14:20] Initialized Threading
+Console input: exit
+[10:15:05] --- Server Shutting Down.
+[10:15:05] Stopping PYSAMP-Threading
+[10:15:05] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:15:09] 
+[10:15:09] Server Plugins
+[10:15:09] --------------
+[10:15:09]  Loading plugin: PySAMP.dll
+[10:15:09]   Loaded.
+[10:15:09]  Loaded 1 plugins.
+
+[10:15:09] 
+[10:15:09] Filterscripts
+[10:15:09] ---------------
+[10:15:09]   Loaded 0 filterscripts.
+
+[10:15:09] Loading PYSAMP
+[10:15:09] Loading PySAMP gamemode
+[10:15:09] PyGamemode::PyGamemode(\python)
+[10:15:09] PyGamemode::PyGamemode(gamemode.py) failed!
+[10:15:09] Number of vehicle models: 0
+[10:15:09] Initializing Threading
+[10:15:09] Initialized Threading
+Console input: exit
+[10:18:39] --- Server Shutting Down.
+[10:18:39] Stopping PYSAMP-Threading
+[10:18:39] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:18:42] 
+[10:18:42] Server Plugins
+[10:18:42] --------------
+[10:18:42]  Loading plugin: PySAMP.dll
+[10:18:42]   Loaded.
+[10:18:42]  Loaded 1 plugins.
+
+[10:18:42] 
+[10:18:42] Filterscripts
+[10:18:42] ---------------
+[10:18:42]   Loaded 0 filterscripts.
+
+[10:18:42] Loading PYSAMP
+[10:18:42] Loading PySAMP gamemode
+[10:18:42] PyGamemode::PyGamemode(\python)
+[10:18:42] PyGamemode::PyGamemode(gamemode.py) failed!
+[10:18:42] Number of vehicle models: 0
+[10:18:42] Initializing Threading
+[10:18:42] Initialized Threading
+Console input: exit
+[10:20:05] --- Server Shutting Down.
+[10:20:05] Stopping PYSAMP-Threading
+[10:20:05] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:20:07] 
+[10:20:07] Server Plugins
+[10:20:07] --------------
+[10:20:07]  Loading plugin: PySAMP.dll
+[10:20:07]   Loaded.
+[10:20:07]  Loaded 1 plugins.
+
+[10:20:07] 
+[10:20:07] Filterscripts
+[10:20:07] ---------------
+[10:20:07]   Loaded 0 filterscripts.
+
+[10:20:07] Loading PYSAMP
+[10:20:07] Loading PySAMP gamemode
+[10:20:07] PyGamemode::PyGamemode(\python)
+[10:20:07] Number of vehicle models: 0
+[10:20:07] Initializing Threading
+[10:20:07] Initialized Threading
+[10:20:30] [connection] 192.168.29.204:60061 requests connection cookie.
+[10:20:31] [connection] incoming connection: 192.168.29.204:60061 id: 0
+[10:20:31] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[10:20:53] /s
+[10:20:54] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[10:28:39] --- Server Shutting Down.
+[10:28:39] Stopping PYSAMP-Threading
+[10:28:39] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:28:41] 
+[10:28:41] Server Plugins
+[10:28:41] --------------
+[10:28:41]  Loading plugin: PySAMP.dll
+[10:28:41]   Loaded.
+[10:28:41]  Loaded 1 plugins.
+
+[10:28:41] 
+[10:28:41] Filterscripts
+[10:28:41] ---------------
+[10:28:41]   Loaded 0 filterscripts.
+
+[10:28:41] Loading PYSAMP
+[10:28:41] Loading PySAMP gamemode
+[10:28:41] PyGamemode::PyGamemode(\python)
+[10:28:41] Initializing Threading
+[10:28:41] Initialized Threading
+[10:28:41] Number of vehicle models: 0
+Console input: exit
+[10:32:32] --- Server Shutting Down.
+[10:32:32] Stopping PYSAMP-Threading
+[10:32:32] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:32:33] 
+[10:32:33] Server Plugins
+[10:32:33] --------------
+[10:32:33]  Loading plugin: PySAMP.dll
+[10:32:33]   Loaded.
+[10:32:33]  Loaded 1 plugins.
+
+[10:32:33] 
+[10:32:33] Filterscripts
+[10:32:33] ---------------
+[10:32:33]   Loaded 0 filterscripts.
+
+[10:32:33] Loading PYSAMP
+[10:32:33] Loading PySAMP gamemode
+[10:32:33] PyGamemode::PyGamemode(\python)
+[10:32:34] Initializing Threading
+[10:32:34] Initialized Threading
+[10:32:34] Number of vehicle models: 0
+Console input: exit
+[10:33:58] --- Server Shutting Down.
+[10:33:58] Stopping PYSAMP-Threading
+[10:33:58] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:33:59] 
+[10:33:59] Server Plugins
+[10:33:59] --------------
+[10:33:59]  Loading plugin: PySAMP.dll
+[10:33:59]   Loaded.
+[10:33:59]  Loaded 1 plugins.
+
+[10:33:59] 
+[10:33:59] Filterscripts
+[10:33:59] ---------------
+[10:33:59]   Loaded 0 filterscripts.
+
+[10:33:59] Loading PYSAMP
+[10:33:59] Loading PySAMP gamemode
+[10:33:59] PyGamemode::PyGamemode(\python)
+[10:33:59] Initializing Threading
+[10:33:59] Initialized Threading
+[10:33:59] Number of vehicle models: 0
+[10:40:13] [connection] 192.168.29.204:56381 requests connection cookie.
+[10:40:14] [connection] incoming connection: 192.168.29.204:56381 id: 0
+[10:40:14] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[10:42:47] /tp
+[10:48:08] /tp
+[10:48:09] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[10:48:17] --- Server Shutting Down.
+[10:48:17] Stopping PYSAMP-Threading
+[10:48:17] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:48:19] 
+[10:48:19] Server Plugins
+[10:48:19] --------------
+[10:48:19]  Loading plugin: PySAMP.dll
+[10:48:19]   Loaded.
+[10:48:19]  Loaded 1 plugins.
+
+[10:48:19] 
+[10:48:19] Filterscripts
+[10:48:19] ---------------
+[10:48:19]   Loaded 0 filterscripts.
+
+[10:48:19] Loading PYSAMP
+[10:48:19] Loading PySAMP gamemode
+[10:48:19] PyGamemode::PyGamemode(\python)
+[10:48:19] Number of vehicle models: 0
+[10:48:19] Initializing Threading
+[10:48:19] Initialized Threading
+[10:48:44] [connection] 192.168.29.204:54715 requests connection cookie.
+[10:48:45] [connection] incoming connection: 192.168.29.204:54715 id: 0
+[10:48:45] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[10:48:53] /tp
+[10:48:54] /tp
+[10:48:55] /tp
+[10:48:55] /tp
+[10:48:56] /tp
+[10:49:51] [part] Upender_Lakhwan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:53:02] 
+[10:53:02] Server Plugins
+[10:53:02] --------------
+[10:53:02]  Loading plugin: PySAMP.dll
+[10:53:02]   Loaded.
+[10:53:02]  Loaded 1 plugins.
+
+[10:53:02] [connection] 192.168.29.204:63247 requests connection cookie.
+[10:53:02] 
+[10:53:02] Filterscripts
+[10:53:02] ---------------
+[10:53:02]   Loaded 0 filterscripts.
+
+[10:53:02] Loading PYSAMP
+[10:53:02] Loading PySAMP gamemode
+[10:53:02] PyGamemode::PyGamemode(\python)
+[10:53:02] Initializing Threading
+[10:53:02] Initialized Threading
+[10:53:02] Number of vehicle models: 0
+[10:53:04] [connection] incoming connection: 192.168.29.204:52977 id: 0
+[10:53:04] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[10:53:09] /tp
+[10:53:10] /tp
+[10:53:10] /tpt
+[10:53:37] /tp
+[10:53:38] /kick
+[10:53:56] [part] Upender_Lakhwan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:54:17] 
+[10:54:17] Server Plugins
+[10:54:17] --------------
+[10:54:17]  Loading plugin: PySAMP.dll
+[10:54:17]   Loaded.
+[10:54:17]  Loaded 1 plugins.
+
+[10:54:17] 
+[10:54:17] Filterscripts
+[10:54:17] ---------------
+[10:54:17]   Loaded 0 filterscripts.
+
+[10:54:17] Loading PYSAMP
+[10:54:17] Loading PySAMP gamemode
+[10:54:17] PyGamemode::PyGamemode(\python)
+[10:54:18] Initializing Threading
+[10:54:18] Number of vehicle models: 0
+[10:54:18] Initialized Threading
+[10:55:16] [connection] 192.168.29.204:62149 requests connection cookie.
+[10:55:17] [connection] incoming connection: 192.168.29.204:62149 id: 0
+[10:55:17] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[10:55:22] /tp
+[10:55:25] /tp
+[10:55:40] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[10:55:47] --- Server Shutting Down.
+[10:55:47] Stopping PYSAMP-Threading
+[10:55:47] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:58:03] 
+[10:58:03] Server Plugins
+[10:58:03] --------------
+[10:58:03]  Loading plugin: PySAMP.dll
+[10:58:03]   Loaded.
+[10:58:03]  Loaded 1 plugins.
+
+[10:58:03] 
+[10:58:03] Filterscripts
+[10:58:03] ---------------
+[10:58:03]   Loaded 0 filterscripts.
+
+[10:58:03] Loading PYSAMP
+[10:58:03] Loading PySAMP gamemode
+[10:58:03] PyGamemode::PyGamemode(\python)
+[10:58:03] Initializing Threading
+[10:58:03] Number of vehicle models: 0
+[10:58:03] Initialized Threading
+Console input: exit
+[10:58:20] --- Server Shutting Down.
+[10:58:20] Stopping PYSAMP-Threading
+[10:58:20] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:06:45] 
+[11:06:45] Server Plugins
+[11:06:45] --------------
+[11:06:45]  Loading plugin: PySAMP.dll
+[11:06:45]   Loaded.
+[11:06:45]  Loaded 1 plugins.
+
+[11:06:45] 
+[11:06:45] Filterscripts
+[11:06:45] ---------------
+[11:06:45]   Loaded 0 filterscripts.
+
+[11:06:45] Loading PYSAMP
+[11:06:45] Loading PySAMP gamemode
+[11:06:45] PyGamemode::PyGamemode(\python)
+[11:06:45] Initializing Threading
+[11:06:45] Number of vehicle models: 0
+[11:06:45] Initialized Threading
+[11:07:09] [connection] 192.168.29.204:61964 requests connection cookie.
+[11:07:10] [connection] incoming connection: 192.168.29.204:61964 id: 0
+[11:07:10] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[11:07:16] /tp
+[11:07:27] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[11:15:53] --- Server Shutting Down.
+[11:15:53] Stopping PYSAMP-Threading
+[11:15:53] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:15:55] 
+[11:15:55] Server Plugins
+[11:15:55] --------------
+[11:15:55]  Loading plugin: PySAMP.dll
+[11:15:55]   Loaded.
+[11:15:55]  Loaded 1 plugins.
+
+[11:15:55] 
+[11:15:55] Filterscripts
+[11:15:55] ---------------
+[11:15:55]   Loaded 0 filterscripts.
+
+[11:15:55] Loading PYSAMP
+[11:15:55] Loading PySAMP gamemode
+[11:15:55] PyGamemode::PyGamemode(\python)
+[11:15:55] Initializing Threading
+[11:15:55] Number of vehicle models: 0
+[11:15:55] Initialized Threading
+[11:17:16] [connection] 192.168.29.204:64964 requests connection cookie.
+[11:17:17] [connection] incoming connection: 192.168.29.204:64964 id: 0
+[11:17:17] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[11:17:21] /tp
+[11:17:25] /tp
+[11:17:28] /tp
+[11:17:29] /tp
+[11:17:31] /tp
+[11:17:33] /tp
+[11:17:34] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[11:19:09] --- Server Shutting Down.
+[11:19:09] Stopping PYSAMP-Threading
+[11:19:09] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:19:11] 
+[11:19:11] Server Plugins
+[11:19:11] --------------
+[11:19:11]  Loading plugin: PySAMP.dll
+[11:19:11]   Loaded.
+[11:19:11]  Loaded 1 plugins.
+
+[11:19:11] 
+[11:19:11] Filterscripts
+[11:19:11] ---------------
+[11:19:11]   Loaded 0 filterscripts.
+
+[11:19:11] Loading PYSAMP
+[11:19:11] Loading PySAMP gamemode
+[11:19:11] PyGamemode::PyGamemode(\python)
+[11:19:11] Initializing Threading
+[11:19:11] Initialized Threading
+[11:19:11] Number of vehicle models: 0
+[11:19:30] [connection] 192.168.29.204:64322 requests connection cookie.
+[11:19:31] [connection] incoming connection: 192.168.29.204:64322 id: 0
+[11:19:31] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[11:19:39] [part] Upender_Lakhwan has left the server (0:1)
+[11:19:58] [connection] 192.168.29.204:61462 requests connection cookie.
+[11:19:59] [connection] incoming connection: 192.168.29.204:61462 id: 0
+[11:19:59] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[11:19:59] [part] Upender_Lakhwan has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:28:34] 
+[11:28:34] Server Plugins
+[11:28:34] --------------
+[11:28:34]  Loading plugin: PySAMP.dll
+[11:28:34]   Loaded.
+[11:28:34]  Loaded 1 plugins.
+
+[11:28:34] 
+[11:28:34] Filterscripts
+[11:28:34] ---------------
+[11:28:34]   Loaded 0 filterscripts.
+
+[11:28:34] Loading PYSAMP
+[11:28:34] Loading PySAMP gamemode
+[11:28:34] PyGamemode::PyGamemode(\python)
+[11:28:34] PyGamemode::PyGamemode(gamemode.py) failed!
+[11:28:34] Number of vehicle models: 0
+[11:28:34] Initializing Threading
+[11:28:34] Initialized Threading
+Console input: exit
+[11:29:34] --- Server Shutting Down.
+[11:29:34] Stopping PYSAMP-Threading
+[11:29:34] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:29:36] 
+[11:29:36] Server Plugins
+[11:29:36] --------------
+[11:29:36]  Loading plugin: PySAMP.dll
+[11:29:36]   Loaded.
+[11:29:36]  Loaded 1 plugins.
+
+[11:29:36] 
+[11:29:36] Filterscripts
+[11:29:36] ---------------
+[11:29:36]   Loaded 0 filterscripts.
+
+[11:29:36] Loading PYSAMP
+[11:29:36] Loading PySAMP gamemode
+[11:29:36] PyGamemode::PyGamemode(\python)
+[11:29:36] PyGamemode::PyGamemode(gamemode.py) failed!
+[11:29:36] Number of vehicle models: 0
+[11:29:36] Initializing Threading
+[11:29:36] Initialized Threading
+Console input: exit
+[11:50:01] --- Server Shutting Down.
+[11:50:01] Stopping PYSAMP-Threading
+[11:50:02] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:50:06] 
+[11:50:06] Server Plugins
+[11:50:06] --------------
+[11:50:06]  Loading plugin: PySAMP.dll
+[11:50:06]   Loaded.
+[11:50:06]  Loaded 1 plugins.
+
+[11:50:06] 
+[11:50:06] Filterscripts
+[11:50:06] ---------------
+[11:50:06]   Loaded 0 filterscripts.
+
+[11:50:06] Loading PYSAMP
+[11:50:06] Loading PySAMP gamemode
+[11:50:06] PyGamemode::PyGamemode(\python)
+[11:50:06] PyGamemode::PyGamemode(gamemode.py) failed!
+[11:50:06] Number of vehicle models: 0
+[11:50:06] Initializing Threading
+[11:50:06] Initialized Threading
+Console input: exit
+[12:07:34] --- Server Shutting Down.
+[12:07:34] Stopping PYSAMP-Threading
+[12:07:34] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:07:36] 
+[12:07:36] Server Plugins
+[12:07:36] --------------
+[12:07:36]  Loading plugin: PySAMP.dll
+[12:07:36]   Loaded.
+[12:07:36]  Loaded 1 plugins.
+
+[12:07:36] 
+[12:07:36] Filterscripts
+[12:07:36] ---------------
+[12:07:36]   Loaded 0 filterscripts.
+
+[12:07:36] Loading PYSAMP
+[12:07:36] Loading PySAMP gamemode
+[12:07:36] PyGamemode::PyGamemode(\python)
+[12:07:36] PyGamemode::PyGamemode(gamemode.py) failed!
+[12:07:36] Number of vehicle models: 0
+[12:07:36] Initializing Threading
+[12:07:36] Initialized Threading
+Console input: exit
+[12:11:32] --- Server Shutting Down.
+[12:11:32] Stopping PYSAMP-Threading
+[12:11:32] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:11:44] 
+[12:11:44] Server Plugins
+[12:11:44] --------------
+[12:11:44]  Loading plugin: PySAMP.dll
+[12:11:44]   Loaded.
+[12:11:44]  Loaded 1 plugins.
+
+[12:11:44] 
+[12:11:44] Filterscripts
+[12:11:44] ---------------
+[12:11:44]   Loaded 0 filterscripts.
+
+[12:11:44] Loading PYSAMP
+[12:11:44] Loading PySAMP gamemode
+[12:11:44] PyGamemode::PyGamemode(\python)
+[12:11:44] PyGamemode::PyGamemode(gamemode.py) failed!
+[12:11:44] Number of vehicle models: 0
+[12:11:44] Initializing Threading
+[12:11:44] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:44:59] 
+[19:44:59] Server Plugins
+[19:44:59] --------------
+[19:44:59]  Loading plugin: PySAMP.dll
+[19:44:59]   Failed.
+[19:44:59]  Loaded 0 plugins.
+
+[19:44:59] 
+[19:44:59] Filterscripts
+[19:44:59] ---------------
+[19:44:59]   Loaded 0 filterscripts.
+
+[19:44:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:45:30] 
+[19:45:30] Server Plugins
+[19:45:30] --------------
+[19:45:30]  Loading plugin: PySAMP.dll
+[19:45:30]   Failed.
+[19:45:30]  Loaded 0 plugins.
+
+[19:45:30] 
+[19:45:30] Filterscripts
+[19:45:30] ---------------
+[19:45:30]   Loaded 0 filterscripts.
+
+[19:45:30] Number of vehicle models: 0
+Console input: exit
+[19:45:40] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:45:49] 
+[19:45:49] Server Plugins
+[19:45:49] --------------
+[19:45:49]  Loading plugin: PySAMP.dll
+[19:45:49]   Failed.
+[19:45:49]  Loaded 0 plugins.
+
+[19:45:49] 
+[19:45:49] Filterscripts
+[19:45:49] ---------------
+[19:45:49]   Loaded 0 filterscripts.
+
+[19:45:49] Number of vehicle models: 0
+Console input: exit
+[19:46:18] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:46:19] 
+[19:46:19] Server Plugins
+[19:46:19] --------------
+[19:46:19]  Loading plugin: PySAMP.dll
+[19:46:19]   Failed.
+[19:46:19]  Loaded 0 plugins.
+
+[19:46:19] 
+[19:46:19] Filterscripts
+[19:46:19] ---------------
+[19:46:19]   Loaded 0 filterscripts.
+
+[19:46:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:47:05] 
+[19:47:05] Server Plugins
+[19:47:05] --------------
+[19:47:05]  Loading plugin: PySAMP.dll
+[19:47:05]   Failed.
+[19:47:05]  Loaded 0 plugins.
+
+[19:47:05] 
+[19:47:05] Filterscripts
+[19:47:05] ---------------
+[19:47:05]   Loaded 0 filterscripts.
+
+[19:47:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:09] 
+[19:48:09] Server Plugins
+[19:48:09] --------------
+[19:48:09]  Loading plugin: PySAMP.dll
+[19:48:09]   Failed.
+[19:48:09]  Loaded 0 plugins.
+
+[19:48:09] 
+[19:48:09] Filterscripts
+[19:48:09] ---------------
+[19:48:09]   Loaded 0 filterscripts.
+
+[19:48:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:23] 
+[19:48:23] Server Plugins
+[19:48:23] --------------
+[19:48:23]  Loading plugin: PySAMP.dll
+[19:48:23]   Failed.
+[19:48:23]  Loaded 0 plugins.
+
+[19:48:23] 
+[19:48:23] Filterscripts
+[19:48:23] ---------------
+[19:48:23]   Loaded 0 filterscripts.
+
+[19:48:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:49:17] 
+[19:49:17] Server Plugins
+[19:49:17] --------------
+[19:49:17]  Loading plugin: PySAMP.dll
+[19:49:17]   Failed.
+[19:49:17]  Loaded 0 plugins.
+
+[19:49:17] 
+[19:49:17] Filterscripts
+[19:49:17] ---------------
+[19:49:17]   Loaded 0 filterscripts.
+
+[19:49:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:50:44] 
+[19:50:44] Server Plugins
+[19:50:44] --------------
+[19:50:44]  Loading plugin: PySAMP.dll
+[19:50:44]   Failed.
+[19:50:44]  Loaded 0 plugins.
+
+[19:50:44] 
+[19:50:44] Filterscripts
+[19:50:44] ---------------
+[19:50:44]   Loaded 0 filterscripts.
+
+[19:50:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:04] 
+[20:07:04] Server Plugins
+[20:07:04] --------------
+[20:07:04]  Loading plugin: PySAMP.dll
+[20:07:04]   Failed.
+[20:07:04]  Loaded 0 plugins.
+
+[20:07:05] 
+[20:07:05] Filterscripts
+[20:07:05] ---------------
+[20:07:05]   Loaded 0 filterscripts.
+
+[20:07:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:32:05] 
+[20:32:05] Server Plugins
+[20:32:05] --------------
+[20:32:05]  Loading plugin: PySAMP.dll
+[20:32:05]   Failed.
+[20:32:05]  Loaded 0 plugins.
+
+[20:32:05] 
+[20:32:05] Filterscripts
+[20:32:05] ---------------
+[20:32:05]   Loaded 0 filterscripts.
+
+[20:32:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:41:16] 
+[20:41:16] Server Plugins
+[20:41:16] --------------
+[20:41:16]  Loading plugin: PySAMP.dll
+[20:41:16]   Failed.
+[20:41:16]  Loaded 0 plugins.
+
+[20:41:16] 
+[20:41:16] Filterscripts
+[20:41:16] ---------------
+[20:41:16]   Loaded 0 filterscripts.
+
+[20:41:16] Number of vehicle models: 0
+Console input: exit
+[20:45:58] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:46:48] 
+[20:46:48] Server Plugins
+[20:46:48] --------------
+[20:46:48]  Loading plugin: PySAMP.dll
+[20:46:48]   Failed.
+[20:46:48]  Loaded 0 plugins.
+
+[20:46:48] 
+[20:46:48] Filterscripts
+[20:46:48] ---------------
+[20:46:48]   Loaded 0 filterscripts.
+
+[20:46:48] Number of vehicle models: 0
+Console input: exit
+[20:46:51] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:06:09] 
+[21:06:09] Server Plugins
+[21:06:09] --------------
+[21:06:09]  Loading plugin: PySAMP.dll
+[21:06:09]   Loaded.
+[21:06:09]  Loaded 1 plugins.
+
+[21:06:09] 
+[21:06:09] Filterscripts
+[21:06:09] ---------------
+[21:06:09]   Loaded 0 filterscripts.
+
+[21:06:09] Loading PYSAMP
+[21:06:09] Loading PySAMP gamemode
+[21:06:09] PyGamemode::PyGamemode(\python)
+[21:06:09] PyGamemode::PyGamemode(gamemode.py) failed!
+[21:06:09] Number of vehicle models: 0
+[21:06:09] Initializing Threading
+[21:06:09] Initialized Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:07:32] 
+[21:07:32] Server Plugins
+[21:07:32] --------------
+[21:07:32]  Loading plugin: PySAMP.dll
+[21:07:32]   Loaded.
+[21:07:32]  Loaded 1 plugins.
+
+[21:07:32] 
+[21:07:32] Filterscripts
+[21:07:32] ---------------
+[21:07:32]   Loaded 0 filterscripts.
+
+[21:07:32] Loading PYSAMP
+[21:07:32] Loading PySAMP gamemode
+[21:07:32] PyGamemode::PyGamemode(\python)
+[21:07:32] Initializing Threading
+[21:07:32] Initialized Threading
+[21:07:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:08:46] 
+[21:08:46] Server Plugins
+[21:08:46] --------------
+[21:08:46]  Loading plugin: PySAMP.dll
+[21:08:46]   Loaded.
+[21:08:46]  Loaded 1 plugins.
+
+[21:08:46] 
+[21:08:46] Filterscripts
+[21:08:46] ---------------
+[21:08:46]   Loaded 0 filterscripts.
+
+[21:08:46] Loading PYSAMP
+[21:08:46] Loading PySAMP gamemode
+[21:08:46] PyGamemode::PyGamemode(\python)
+[21:08:47] Initializing Threading
+[21:08:47] Initialized Threading
+[21:08:47] Number of vehicle models: 0
+Console input: exit
+[21:09:07] --- Server Shutting Down.
+[21:09:07] Stopping PYSAMP-Threading
+[21:09:07] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:11:57] 
+[21:11:57] Server Plugins
+[21:11:57] --------------
+[21:11:57]  Loading plugin: PySAMP.dll
+[21:11:57]   Loaded.
+[21:11:57]  Loaded 1 plugins.
+
+[21:11:57] 
+[21:11:57] Filterscripts
+[21:11:57] ---------------
+[21:11:57]   Loaded 0 filterscripts.
+
+[21:11:57] Loading PYSAMP
+[21:11:57] Loading PySAMP gamemode
+[21:11:57] PyGamemode::PyGamemode(\python)
+[21:11:57] Initializing Threading
+[21:11:57] Initialized Threading
+[21:11:57] Number of vehicle models: 0
+Console input: exit
+[21:12:06] --- Server Shutting Down.
+[21:12:06] Stopping PYSAMP-Threading
+[21:12:06] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:12:07] 
+[21:12:07] Server Plugins
+[21:12:07] --------------
+[21:12:07]  Loading plugin: PySAMP.dll
+[21:12:07]   Loaded.
+[21:12:07]  Loaded 1 plugins.
+
+[21:12:07] 
+[21:12:07] Filterscripts
+[21:12:07] ---------------
+[21:12:07]   Loaded 0 filterscripts.
+
+[21:12:07] Loading PYSAMP
+[21:12:07] Loading PySAMP gamemode
+[21:12:07] PyGamemode::PyGamemode(\python)
+[21:12:07] Initializing Threading
+[21:12:07] Initialized Threading
+[21:12:07] Number of vehicle models: 0
+Console input: exit
+[21:15:04] --- Server Shutting Down.
+[21:15:04] Stopping PYSAMP-Threading
+[21:15:04] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:15:05] 
+[21:15:05] Server Plugins
+[21:15:05] --------------
+[21:15:05]  Loading plugin: PySAMP.dll
+[21:15:05]   Loaded.
+[21:15:05]  Loaded 1 plugins.
+
+[21:15:05] 
+[21:15:05] Filterscripts
+[21:15:05] ---------------
+[21:15:05]   Loaded 0 filterscripts.
+
+[21:15:05] Loading PYSAMP
+[21:15:05] Loading PySAMP gamemode
+[21:15:05] PyGamemode::PyGamemode(\python)
+[21:15:05] Initializing Threading
+[21:15:05] Initialized Threading
+[21:15:05] Number of vehicle models: 0
+Console input: exit
+[21:15:39] --- Server Shutting Down.
+[21:15:39] Stopping PYSAMP-Threading
+[21:15:39] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:15:40] 
+[21:15:40] Server Plugins
+[21:15:40] --------------
+[21:15:40]  Loading plugin: PySAMP.dll
+[21:15:40]   Loaded.
+[21:15:40]  Loaded 1 plugins.
+
+[21:15:40] 
+[21:15:40] Filterscripts
+[21:15:40] ---------------
+[21:15:40]   Loaded 0 filterscripts.
+
+[21:15:40] Loading PYSAMP
+[21:15:40] Loading PySAMP gamemode
+[21:15:40] PyGamemode::PyGamemode(\python)
+[21:15:41] Initializing Threading
+[21:15:41] Initialized Threading
+[21:15:41] Number of vehicle models: 0
+Console input: exit
+[21:55:16] --- Server Shutting Down.
+[21:55:16] Stopping PYSAMP-Threading
+[21:55:17] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:55:17] 
+[21:55:17] Server Plugins
+[21:55:17] --------------
+[21:55:17]  Loading plugin: PySAMP.dll
+[21:55:17]   Loaded.
+[21:55:17]  Loaded 1 plugins.
+
+[21:55:18] 
+[21:55:18] Filterscripts
+[21:55:18] ---------------
+[21:55:18]   Loaded 0 filterscripts.
+
+[21:55:18] Loading PYSAMP
+[21:55:18] Loading PySAMP gamemode
+[21:55:18] PyGamemode::PyGamemode(\python)
+[21:55:18] PyGamemode::PyGamemode(gamemode.py) failed!
+[21:55:18] Number of vehicle models: 0
+[21:55:18] Initializing Threading
+[21:55:18] Initialized Threading
+Console input: exit
+[21:55:57] --- Server Shutting Down.
+[21:55:57] Stopping PYSAMP-Threading
+[21:55:57] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:55:58] 
+[21:55:58] Server Plugins
+[21:55:58] --------------
+[21:55:58]  Loading plugin: PySAMP.dll
+[21:55:58]   Loaded.
+[21:55:58]  Loaded 1 plugins.
+
+[21:55:58] 
+[21:55:58] Filterscripts
+[21:55:58] ---------------
+[21:55:58]   Loaded 0 filterscripts.
+
+[21:55:58] Loading PYSAMP
+[21:55:58] Loading PySAMP gamemode
+[21:55:58] PyGamemode::PyGamemode(\python)
+[21:55:58] PyGamemode::PyGamemode(gamemode.py) failed!
+[21:55:58] Number of vehicle models: 0
+[21:55:58] Initializing Threading
+[21:55:58] Initialized Threading
+Console input: exit
+[21:56:11] --- Server Shutting Down.
+[21:56:11] Stopping PYSAMP-Threading
+[21:56:11] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:56:11] 
+[21:56:11] Server Plugins
+[21:56:11] --------------
+[21:56:11]  Loading plugin: PySAMP.dll
+[21:56:11]   Loaded.
+[21:56:11]  Loaded 1 plugins.
+
+[21:56:11] 
+[21:56:11] Filterscripts
+[21:56:11] ---------------
+[21:56:11]   Loaded 0 filterscripts.
+
+[21:56:11] Loading PYSAMP
+[21:56:11] Loading PySAMP gamemode
+[21:56:11] PyGamemode::PyGamemode(\python)
+[21:56:11] PyGamemode::PyGamemode(gamemode.py) failed!
+[21:56:11] Number of vehicle models: 0
+[21:56:11] Initializing Threading
+[21:56:11] Initialized Threading
+Console input: exit
+[21:59:07] --- Server Shutting Down.
+[21:59:07] Stopping PYSAMP-Threading
+[21:59:07] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:59:07] 
+[21:59:07] Server Plugins
+[21:59:07] --------------
+[21:59:07]  Loading plugin: PySAMP.dll
+[21:59:07]   Loaded.
+[21:59:07]  Loaded 1 plugins.
+
+[21:59:07] 
+[21:59:07] Filterscripts
+[21:59:07] ---------------
+[21:59:07]   Loaded 0 filterscripts.
+
+[21:59:07] Loading PYSAMP
+[21:59:07] Loading PySAMP gamemode
+[21:59:07] PyGamemode::PyGamemode(\python)
+[21:59:07] PyGamemode::PyGamemode(gamemode.py) failed!
+[21:59:07] Number of vehicle models: 0
+[21:59:07] Initializing Threading
+[21:59:07] Initialized Threading
+Console input: exit
+[21:59:21] --- Server Shutting Down.
+[21:59:21] Stopping PYSAMP-Threading
+[21:59:21] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:59:21] 
+[21:59:21] Server Plugins
+[21:59:21] --------------
+[21:59:21]  Loading plugin: PySAMP.dll
+[21:59:21]   Loaded.
+[21:59:21]  Loaded 1 plugins.
+
+[21:59:21] 
+[21:59:21] Filterscripts
+[21:59:21] ---------------
+[21:59:21]   Loaded 0 filterscripts.
+
+[21:59:21] Loading PYSAMP
+[21:59:21] Loading PySAMP gamemode
+[21:59:21] PyGamemode::PyGamemode(\python)
+[21:59:21] Initializing Threading
+[21:59:21] Initialized Threading
+[21:59:23] Number of vehicle models: 0
+[22:03:52] [connection] 192.168.29.204:50608 requests connection cookie.
+[22:03:52] [connection] incoming connection: 192.168.29.204:50608 id: 0
+[22:03:53] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[22:04:18] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[22:10:23] --- Server Shutting Down.
+[22:10:23] Stopping PYSAMP-Threading
+[22:10:23] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:10:24] 
+[22:10:24] Server Plugins
+[22:10:24] --------------
+[22:10:24]  Loading plugin: PySAMP.dll
+[22:10:24]   Loaded.
+[22:10:24]  Loaded 1 plugins.
+
+[22:10:24] 
+[22:10:24] Filterscripts
+[22:10:24] ---------------
+[22:10:24]   Loaded 0 filterscripts.
+
+[22:10:24] Loading PYSAMP
+[22:10:24] Loading PySAMP gamemode
+[22:10:24] PyGamemode::PyGamemode(\python)
+[22:10:24] Initializing Threading
+[22:10:24] Initialized Threading
+[22:10:26] Number of vehicle models: 0
+Console input: exit
+[22:17:41] --- Server Shutting Down.
+[22:17:41] Stopping PYSAMP-Threading
+[22:17:41] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:17:42] 
+[22:17:42] Server Plugins
+[22:17:42] --------------
+[22:17:42]  Loading plugin: PySAMP.dll
+[22:17:42]   Loaded.
+[22:17:42]  Loaded 1 plugins.
+
+[22:17:42] 
+[22:17:42] Filterscripts
+[22:17:42] ---------------
+[22:17:42]   Loaded 0 filterscripts.
+
+[22:17:42] Loading PYSAMP
+[22:17:42] Loading PySAMP gamemode
+[22:17:42] PyGamemode::PyGamemode(\python)
+[22:17:42] Initializing Threading
+[22:17:42] Initialized Threading
+[22:17:44] Number of vehicle models: 0
+Console input: exit
+[22:17:57] --- Server Shutting Down.
+[22:17:57] Stopping PYSAMP-Threading
+[22:17:57] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:17:58] 
+[22:17:58] Server Plugins
+[22:17:58] --------------
+[22:17:58]  Loading plugin: PySAMP.dll
+[22:17:58]   Loaded.
+[22:17:58]  Loaded 1 plugins.
+
+[22:17:58] 
+[22:17:58] Filterscripts
+[22:17:58] ---------------
+[22:17:58]   Loaded 0 filterscripts.
+
+[22:17:58] Loading PYSAMP
+[22:17:58] Loading PySAMP gamemode
+[22:17:58] PyGamemode::PyGamemode(\python)
+[22:17:58] Initializing Threading
+[22:17:58] Initialized Threading
+[22:18:00] Number of vehicle models: 0
+Console input: exit
+[22:19:13] --- Server Shutting Down.
+[22:19:13] Stopping PYSAMP-Threading
+[22:19:13] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:19:14] 
+[22:19:14] Server Plugins
+[22:19:14] --------------
+[22:19:14]  Loading plugin: PySAMP.dll
+[22:19:14]   Loaded.
+[22:19:14]  Loaded 1 plugins.
+
+[22:19:14] 
+[22:19:14] Filterscripts
+[22:19:14] ---------------
+[22:19:14]   Loaded 0 filterscripts.
+
+[22:19:14] Loading PYSAMP
+[22:19:14] Loading PySAMP gamemode
+[22:19:14] PyGamemode::PyGamemode(\python)
+[22:19:14] Initializing Threading
+[22:19:14] Initialized Threading
+[22:19:16] Number of vehicle models: 0
+Console input: exit
+[22:20:51] --- Server Shutting Down.
+[22:20:51] Stopping PYSAMP-Threading
+[22:20:51] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:20:51] 
+[22:20:51] Server Plugins
+[22:20:51] --------------
+[22:20:51]  Loading plugin: PySAMP.dll
+[22:20:51]   Loaded.
+[22:20:51]  Loaded 1 plugins.
+
+[22:20:51] 
+[22:20:51] Filterscripts
+[22:20:51] ---------------
+[22:20:51]   Loaded 0 filterscripts.
+
+[22:20:51] Loading PYSAMP
+[22:20:51] Loading PySAMP gamemode
+[22:20:51] PyGamemode::PyGamemode(\python)
+[22:20:51] Initializing Threading
+[22:20:51] Initialized Threading
+[22:20:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:17:32] 
+[09:17:32] Server Plugins
+[09:17:32] --------------
+[09:17:32]  Loading plugin: PySAMP.dll
+[09:17:32]   Loaded.
+[09:17:32]  Loaded 1 plugins.
+
+[09:17:32] 
+[09:17:32] Filterscripts
+[09:17:32] ---------------
+[09:17:32]   Loaded 0 filterscripts.
+
+[09:17:32] Loading PYSAMP
+[09:17:32] Loading PySAMP gamemode
+[09:17:32] PyGamemode::PyGamemode(\python)
+[09:17:34] Initializing Threading
+[09:17:34] Initialized Threading
+[09:17:37] Number of vehicle models: 0
+[09:18:33] [connection] 192.168.29.204:52435 requests connection cookie.
+[09:18:34] [connection] incoming connection: 192.168.29.204:52435 id: 0
+[09:18:34] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[09:18:42] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[09:19:21] --- Server Shutting Down.
+[09:19:21] Stopping PYSAMP-Threading
+[09:19:21] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:19:22] 
+[09:19:22] Server Plugins
+[09:19:22] --------------
+[09:19:22]  Loading plugin: PySAMP.dll
+[09:19:22]   Loaded.
+[09:19:22]  Loaded 1 plugins.
+
+[09:19:22] 
+[09:19:22] Filterscripts
+[09:19:22] ---------------
+[09:19:22]   Loaded 0 filterscripts.
+
+[09:19:22] Loading PYSAMP
+[09:19:22] Loading PySAMP gamemode
+[09:19:22] PyGamemode::PyGamemode(\python)
+[09:19:22] Initializing Threading
+[09:19:22] Initialized Threading
+[09:19:24] Number of vehicle models: 0
+[09:19:43] [connection] 192.168.29.204:55914 requests connection cookie.
+[09:19:44] [connection] incoming connection: 192.168.29.204:55914 id: 0
+[09:19:44] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+Console input: exit
+[09:21:02] --- Server Shutting Down.
+[09:21:02] Stopping PYSAMP-Threading
+[09:21:02] [part] Upender_Lakhwan has left the server (0:0)
+[09:21:02] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:21:03] 
+[09:21:03] Server Plugins
+[09:21:03] --------------
+[09:21:03]  Loading plugin: PySAMP.dll
+[09:21:03]   Loaded.
+[09:21:03]  Loaded 1 plugins.
+
+[09:21:03] 
+[09:21:03] Filterscripts
+[09:21:03] ---------------
+[09:21:03]   Loaded 0 filterscripts.
+
+[09:21:03] Loading PYSAMP
+[09:21:03] Loading PySAMP gamemode
+[09:21:03] PyGamemode::PyGamemode(\python)
+[09:21:03] Initializing Threading
+[09:21:03] Initialized Threading
+[09:21:05] Number of vehicle models: 0
+[09:21:26] [connection] 192.168.29.204:55089 requests connection cookie.
+[09:21:27] [connection] incoming connection: 192.168.29.204:55089 id: 0
+[09:21:27] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+Console input: exit
+[09:22:00] --- Server Shutting Down.
+[09:22:00] Stopping PYSAMP-Threading
+[09:22:00] [part] Upender_Lakhwan has left the server (0:0)
+[09:22:00] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:22:01] 
+[09:22:01] Server Plugins
+[09:22:01] --------------
+[09:22:01]  Loading plugin: PySAMP.dll
+[09:22:01]   Loaded.
+[09:22:01]  Loaded 1 plugins.
+
+[09:22:01] 
+[09:22:01] Filterscripts
+[09:22:01] ---------------
+[09:22:01]   Loaded 0 filterscripts.
+
+[09:22:01] Loading PYSAMP
+[09:22:01] Loading PySAMP gamemode
+[09:22:01] PyGamemode::PyGamemode(\python)
+[09:22:02] Initializing Threading
+[09:22:02] Initialized Threading
+[09:22:04] Number of vehicle models: 0
+[09:22:33] [connection] 192.168.29.204:51377 requests connection cookie.
+[09:22:34] [connection] incoming connection: 192.168.29.204:51377 id: 0
+[09:22:34] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:29:06] 
+[09:29:06] Server Plugins
+[09:29:06] --------------
+[09:29:06]  Loading plugin: PySAMP.dll
+[09:29:06]   Loaded.
+[09:29:06]  Loaded 1 plugins.
+
+[09:29:06] 
+[09:29:06] Filterscripts
+[09:29:06] ---------------
+[09:29:06]   Loaded 0 filterscripts.
+
+[09:29:06] Loading PYSAMP
+[09:29:06] Loading PySAMP gamemode
+[09:29:06] PyGamemode::PyGamemode(\python)
+[09:29:06] Initializing Threading
+[09:29:06] Initialized Threading
+[09:29:08] Number of vehicle models: 0
+[09:29:35] [connection] 192.168.29.204:56138 requests connection cookie.
+[09:29:36] [connection] incoming connection: 192.168.29.204:56138 id: 0
+[09:29:36] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+Console input: exir
+Console input: exit
+[09:29:54] --- Server Shutting Down.
+[09:29:54] Stopping PYSAMP-Threading
+[09:29:54] [part] Upender_Lakhwan has left the server (0:0)
+[09:29:54] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:30:17] 
+[09:30:17] Server Plugins
+[09:30:17] --------------
+[09:30:17]  Loading plugin: PySAMP.dll
+[09:30:17]   Loaded.
+[09:30:17]  Loaded 1 plugins.
+
+[09:30:17] 
+[09:30:17] Filterscripts
+[09:30:17] ---------------
+[09:30:17]   Loaded 0 filterscripts.
+
+[09:30:17] Loading PYSAMP
+[09:30:17] Loading PySAMP gamemode
+[09:30:17] PyGamemode::PyGamemode(\python)
+[09:30:17] Initializing Threading
+[09:30:17] Initialized Threading
+[09:30:19] Number of vehicle models: 0
+[09:30:43] [connection] 192.168.29.204:60006 requests connection cookie.
+[09:30:44] [connection] incoming connection: 192.168.29.204:60006 id: 0
+[09:30:44] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+Console input: exit
+[09:32:25] --- Server Shutting Down.
+[09:32:25] Stopping PYSAMP-Threading
+[09:32:25] [part] Upender_Lakhwan has left the server (0:0)
+[09:32:25] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:32:26] 
+[09:32:26] Server Plugins
+[09:32:26] --------------
+[09:32:26]  Loading plugin: PySAMP.dll
+[09:32:26]   Loaded.
+[09:32:26]  Loaded 1 plugins.
+
+[09:32:26] 
+[09:32:26] Filterscripts
+[09:32:26] ---------------
+[09:32:26]   Loaded 0 filterscripts.
+
+[09:32:26] Loading PYSAMP
+[09:32:26] Loading PySAMP gamemode
+[09:32:26] PyGamemode::PyGamemode(\python)
+[09:32:26] Initializing Threading
+[09:32:26] Initialized Threading
+[09:32:28] Number of vehicle models: 0
+[09:33:00] [connection] 192.168.29.204:64184 requests connection cookie.
+[09:33:01] [connection] incoming connection: 192.168.29.204:64184 id: 0
+[09:33:01] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+Console input: exit
+[09:34:06] --- Server Shutting Down.
+[09:34:06] Stopping PYSAMP-Threading
+[09:34:06] [part] Upender_Lakhwan has left the server (0:0)
+[09:34:06] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:34:15] 
+[09:34:15] Server Plugins
+[09:34:15] --------------
+[09:34:15]  Loading plugin: PySAMP.dll
+[09:34:15]   Loaded.
+[09:34:15]  Loaded 1 plugins.
+
+[09:34:15] 
+[09:34:15] Filterscripts
+[09:34:15] ---------------
+[09:34:15]   Loaded 0 filterscripts.
+
+[09:34:15] Loading PYSAMP
+[09:34:15] Loading PySAMP gamemode
+[09:34:15] PyGamemode::PyGamemode(\python)
+[09:34:15] Initializing Threading
+[09:34:15] Initialized Threading
+[09:34:17] Number of vehicle models: 0
+[09:34:33] [connection] 192.168.29.204:61209 requests connection cookie.
+[09:34:34] [connection] incoming connection: 192.168.29.204:61209 id: 0
+[09:34:34] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+Console input: exit
+[09:36:29] --- Server Shutting Down.
+[09:36:29] Stopping PYSAMP-Threading
+[09:36:29] [part] Upender_Lakhwan has left the server (0:0)
+[09:36:29] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:36:30] 
+[09:36:30] Server Plugins
+[09:36:30] --------------
+[09:36:30]  Loading plugin: PySAMP.dll
+[09:36:30]   Loaded.
+[09:36:30]  Loaded 1 plugins.
+
+[09:36:30] 
+[09:36:30] Filterscripts
+[09:36:30] ---------------
+[09:36:30]   Loaded 0 filterscripts.
+
+[09:36:30] Loading PYSAMP
+[09:36:30] Loading PySAMP gamemode
+[09:36:30] PyGamemode::PyGamemode(\python)
+[09:36:30] Initializing Threading
+[09:36:30] Initialized Threading
+[09:36:32] Number of vehicle models: 0
+[09:39:01] [connection] 192.168.29.204:58336 requests connection cookie.
+[09:39:02] [connection] incoming connection: 192.168.29.204:58336 id: 0
+[09:39:02] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+Console input: exit
+[09:39:35] --- Server Shutting Down.
+[09:39:35] Stopping PYSAMP-Threading
+[09:39:35] [part] Upender_Lakhwan has left the server (0:0)
+[09:39:35] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:39:36] 
+[09:39:36] Server Plugins
+[09:39:36] --------------
+[09:39:36]  Loading plugin: PySAMP.dll
+[09:39:36]   Loaded.
+[09:39:36]  Loaded 1 plugins.
+
+[09:39:36] 
+[09:39:36] Filterscripts
+[09:39:36] ---------------
+[09:39:36]   Loaded 0 filterscripts.
+
+[09:39:36] Loading PYSAMP
+[09:39:36] Loading PySAMP gamemode
+[09:39:36] PyGamemode::PyGamemode(\python)
+[09:39:36] Initializing Threading
+[09:39:36] Initialized Threading
+[09:39:38] Number of vehicle models: 0
+[09:39:59] [connection] 192.168.29.204:49296 requests connection cookie.
+[09:40:00] [connection] incoming connection: 192.168.29.204:49296 id: 0
+[09:40:00] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+Console input: exit
+[09:41:39] --- Server Shutting Down.
+[09:41:39] Stopping PYSAMP-Threading
+[09:41:39] [part] Upender_Lakhwan has left the server (0:0)
+[09:41:39] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:41:39] 
+[09:41:39] Server Plugins
+[09:41:39] --------------
+[09:41:39]  Loading plugin: PySAMP.dll
+[09:41:39]   Loaded.
+[09:41:39]  Loaded 1 plugins.
+
+[09:41:39] 
+[09:41:39] Filterscripts
+[09:41:39] ---------------
+[09:41:39]   Loaded 0 filterscripts.
+
+[09:41:39] Loading PYSAMP
+[09:41:39] Loading PySAMP gamemode
+[09:41:39] PyGamemode::PyGamemode(\python)
+[09:41:40] Initializing Threading
+[09:41:40] Initialized Threading
+[09:41:42] Number of vehicle models: 0
+[09:42:20] [connection] 192.168.29.204:52818 requests connection cookie.
+[09:42:22] [connection] incoming connection: 192.168.29.204:52818 id: 0
+[09:42:22] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[09:42:51] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[09:42:57] --- Server Shutting Down.
+[09:42:57] Stopping PYSAMP-Threading
+[09:42:57] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:43:09] 
+[09:43:09] Server Plugins
+[09:43:09] --------------
+[09:43:09]  Loading plugin: PySAMP.dll
+[09:43:09]   Loaded.
+[09:43:09]  Loaded 1 plugins.
+
+[09:43:09] 
+[09:43:09] Filterscripts
+[09:43:09] ---------------
+[09:43:09]   Loaded 0 filterscripts.
+
+[09:43:09] Loading PYSAMP
+[09:43:09] Loading PySAMP gamemode
+[09:43:09] PyGamemode::PyGamemode(\python)
+[09:43:09] Initializing Threading
+[09:43:09] Initialized Threading
+[09:43:11] Number of vehicle models: 0
+[09:43:24] [connection] 192.168.29.204:52835 requests connection cookie.
+[09:43:25] [connection] incoming connection: 192.168.29.204:52835 id: 0
+[09:43:25] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[09:45:59] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[09:47:28] --- Server Shutting Down.
+[09:47:28] Stopping PYSAMP-Threading
+[09:47:28] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:47:45] 
+[09:47:45] Server Plugins
+[09:47:45] --------------
+[09:47:45]  Loading plugin: PySAMP.dll
+[09:47:45]   Loaded.
+[09:47:45]  Loaded 1 plugins.
+
+[09:47:45] 
+[09:47:45] Filterscripts
+[09:47:45] ---------------
+[09:47:45]   Loaded 0 filterscripts.
+
+[09:47:45] Loading PYSAMP
+[09:47:45] Loading PySAMP gamemode
+[09:47:45] PyGamemode::PyGamemode(\python)
+[09:47:45] PyGamemode::PyGamemode(gamemode.py) failed!
+[09:47:45] Number of vehicle models: 0
+[09:47:45] Initializing Threading
+[09:47:45] Initialized Threading
+Console input: exit
+[09:47:48] --- Server Shutting Down.
+[09:47:48] Stopping PYSAMP-Threading
+[09:47:48] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:54:08] 
+[09:54:08] Server Plugins
+[09:54:08] --------------
+[09:54:08]  Loading plugin: PySAMP.dll
+[09:54:08]   Loaded.
+[09:54:08]  Loaded 1 plugins.
+
+[09:54:08] 
+[09:54:08] Filterscripts
+[09:54:08] ---------------
+[09:54:08]   Loaded 0 filterscripts.
+
+[09:54:08] Loading PYSAMP
+[09:54:08] Loading PySAMP gamemode
+[09:54:08] PyGamemode::PyGamemode(\python)
+[09:54:08] Initializing Threading
+[09:54:08] Initialized Threading
+[09:54:10] Number of vehicle models: 0
+[09:54:28] [connection] 192.168.29.204:56466 requests connection cookie.
+[09:54:29] [connection] incoming connection: 192.168.29.204:56466 id: 0
+[09:54:30] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[09:55:25] /pyreload
+[09:55:40] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[09:55:45] --- Server Shutting Down.
+[09:55:45] Stopping PYSAMP-Threading
+[09:55:45] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:55:45] 
+[09:55:45] Server Plugins
+[09:55:45] --------------
+[09:55:45]  Loading plugin: PySAMP.dll
+[09:55:45]   Loaded.
+[09:55:45]  Loaded 1 plugins.
+
+[09:55:45] 
+[09:55:45] Filterscripts
+[09:55:45] ---------------
+[09:55:45]   Loaded 0 filterscripts.
+
+[09:55:45] Loading PYSAMP
+[09:55:45] Loading PySAMP gamemode
+[09:55:45] PyGamemode::PyGamemode(\python)
+[09:55:45] Initializing Threading
+[09:55:45] Initialized Threading
+[09:55:47] Number of vehicle models: 0
+[09:56:05] [connection] 192.168.29.204:53116 requests connection cookie.
+[09:56:06] [connection] incoming connection: 192.168.29.204:53116 id: 0
+[09:56:07] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[09:57:35] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[10:04:58] --- Server Shutting Down.
+[10:04:58] Stopping PYSAMP-Threading
+[10:04:58] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:04:59] 
+[10:04:59] Server Plugins
+[10:04:59] --------------
+[10:04:59]  Loading plugin: PySAMP.dll
+[10:04:59]   Loaded.
+[10:04:59]  Loaded 1 plugins.
+
+[10:04:59] 
+[10:04:59] Filterscripts
+[10:04:59] ---------------
+[10:04:59]   Loaded 0 filterscripts.
+
+[10:04:59] Loading PYSAMP
+[10:04:59] Loading PySAMP gamemode
+[10:04:59] PyGamemode::PyGamemode(\python)
+[10:04:59] PyGamemode::PyGamemode(gamemode.py) failed!
+[10:04:59] Number of vehicle models: 0
+[10:04:59] Initializing Threading
+[10:04:59] Initialized Threading
+Console input: exit
+[10:05:12] --- Server Shutting Down.
+[10:05:12] Stopping PYSAMP-Threading
+[10:05:12] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:05:13] 
+[10:05:13] Server Plugins
+[10:05:13] --------------
+[10:05:13]  Loading plugin: PySAMP.dll
+[10:05:13]   Loaded.
+[10:05:13]  Loaded 1 plugins.
+
+[10:05:13] 
+[10:05:13] Filterscripts
+[10:05:13] ---------------
+[10:05:13]   Loaded 0 filterscripts.
+
+[10:05:13] Loading PYSAMP
+[10:05:13] Loading PySAMP gamemode
+[10:05:13] PyGamemode::PyGamemode(\python)
+[10:05:13] Initializing Threading
+[10:05:13] Initialized Threading
+[10:05:15] Number of vehicle models: 0
+[10:05:43] [connection] 192.168.29.204:60091 requests connection cookie.
+[10:05:44] [connection] incoming connection: 192.168.29.204:60091 id: 0
+[10:05:44] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[10:05:57] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[10:09:39] --- Server Shutting Down.
+[10:09:39] Stopping PYSAMP-Threading
+[10:09:39] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:09:39] 
+[10:09:39] Server Plugins
+[10:09:39] --------------
+[10:09:39]  Loading plugin: PySAMP.dll
+[10:09:39]   Loaded.
+[10:09:39]  Loaded 1 plugins.
+
+[10:09:39] 
+[10:09:39] Filterscripts
+[10:09:39] ---------------
+[10:09:39]   Loaded 0 filterscripts.
+
+[10:09:39] Loading PYSAMP
+[10:09:39] Loading PySAMP gamemode
+[10:09:39] PyGamemode::PyGamemode(\python)
+[10:09:40] Initializing Threading
+[10:09:40] Initialized Threading
+[10:09:42] Number of vehicle models: 0
+[10:10:01] [connection] 192.168.29.204:53633 requests connection cookie.
+[10:10:02] [connection] incoming connection: 192.168.29.204:53633 id: 0
+[10:10:02] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[10:10:38] /s
+[10:10:39] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[10:11:45] --- Server Shutting Down.
+[10:11:45] Stopping PYSAMP-Threading
+[10:11:45] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:14:14] 
+[10:14:14] Server Plugins
+[10:14:14] --------------
+[10:14:14]  Loading plugin: PySAMP.dll
+[10:14:14]   Loaded.
+[10:14:14]  Loaded 1 plugins.
+
+[10:14:14] 
+[10:14:14] Filterscripts
+[10:14:14] ---------------
+[10:14:14]   Loaded 0 filterscripts.
+
+[10:14:14] Loading PYSAMP
+[10:14:14] Loading PySAMP gamemode
+[10:14:14] PyGamemode::PyGamemode(\python)
+[10:14:14] PyGamemode::PyGamemode(gamemode.py) failed!
+[10:14:14] Number of vehicle models: 0
+[10:14:14] Initializing Threading
+[10:14:14] Initialized Threading
+Console input: exit
+[10:14:30] --- Server Shutting Down.
+[10:14:30] Stopping PYSAMP-Threading
+[10:14:30] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:14:30] 
+[10:14:30] Server Plugins
+[10:14:30] --------------
+[10:14:30]  Loading plugin: PySAMP.dll
+[10:14:30]   Loaded.
+[10:14:30]  Loaded 1 plugins.
+
+[10:14:30] 
+[10:14:30] Filterscripts
+[10:14:30] ---------------
+[10:14:30]   Loaded 0 filterscripts.
+
+[10:14:30] Loading PYSAMP
+[10:14:30] Loading PySAMP gamemode
+[10:14:30] PyGamemode::PyGamemode(\python)
+[10:14:30] Initializing Threading
+[10:14:30] Initialized Threading
+[10:14:32] Number of vehicle models: 0
+[10:14:58] [connection] 192.168.29.204:58949 requests connection cookie.
+[10:14:59] [connection] incoming connection: 192.168.29.204:58949 id: 0
+[10:15:00] [join] Upender_Lakhwan has joined the server (0:192.168.29.204)
+[10:15:12] /gmset
+[10:15:15] /setgm
+[10:15:26] /setgm hi
+[10:16:14] [part] Upender_Lakhwan has left the server (0:1)
+Console input: exit
+[10:16:19] --- Server Shutting Down.
+[10:16:19] Stopping PYSAMP-Threading
+[10:16:19] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:09:17] 
+[14:09:17] Server Plugins
+[14:09:17] --------------
+[14:09:17]  Loading plugin: PySAMP.dll
+[14:09:17]   Loaded.
+[14:09:17]  Loaded 1 plugins.
+
+[14:09:17] 
+[14:09:17] Filterscripts
+[14:09:17] ---------------
+[14:09:17]   Loaded 0 filterscripts.
+
+[14:09:17] Loading PYSAMP
+[14:09:17] Loading PySAMP gamemode
+[14:09:17] PyGamemode::PyGamemode(\python)
+[14:09:19] Initializing Threading
+[14:09:19] Initialized Threading
+[14:09:21] Number of vehicle models: 0
