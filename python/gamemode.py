@@ -4,14 +4,17 @@ import mysql.connector as sql
 import time
 from cmdparser import *
 import hashlib
+from sqlalchemy import create_engine, Column, String, Integer, ForeignKey
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
 
 # ===================== [ DEFINES ] ========================== #
 
 # SQL DEFINES
-SQL_HOST    =   "localhost"
-SQL_USER    =   "root"
-SQL_PASS    =   ""
-SQL_DB      =   "pysamp"
+# SQL_HOST    =   "localhost"
+# SQL_USER    =   "root"
+# SQL_PASS    =   ""
+# SQL_DB      =   "pysamp"
 
 # DIALOG DEFINES
 DIALOG_LOGIN = 0
@@ -136,16 +139,22 @@ COLOR_PLAYER_POLITIC  =  0xCC9999FF
 COLOR_PLAYER_MEXICAN1  =  0xFFFF8099
 COLOR_PLAYER_BLACK1  =  0x741827FF
 
-# ==================== [ CONNECTION TO SQL ] ================== #
-try:
-    mydb = sql.connect(user=SQL_USER,password=SQL_PASS,host=SQL_HOST,database=SQL_DB)
-    print(f"Connection to the Database: {SQL_DB} sucessfull.")
-    mycursor = mydb.cursor()
+# ==================== [ TABLE CREATION AND OTHER THINGS ] ================== #
 
-except Exception as e:
-    print(f"Failed to connect to the Database: {SQL_DB}\nError: {e}")
-    print("Exitting...")
-    exit()
+Base = declarative_base()
+
+class Players(Base):
+    __tablename__ = "players"
+
+    id = Column(Integer, primary_key=True)
+    name = Column(String(24), unique=True, nullable=False)
+    password = Column(String(64), nullable=False)
+
+engine = create_engine("sqlite:///roleplay.db",echo=True)
+Base.metadata.create_all(engine)
+
+Session = sessionmaker(engine)
+session  = Session()
 
 def OnGameModeInit():
     time.sleep(2)
@@ -157,9 +166,8 @@ def OnGameModeInit():
     return True
     
 def OnGameModeExit():
-    mydb.commit()
-    mydb.close()
-    print(f"Closing MySQL Connection to the database: {SQL_DB}")
+    session.commit()
+    session.close()
     return True
 
 def OnPyUnload():
@@ -300,28 +308,26 @@ def OnActorStreamOut(actorid, forplayerid):
     return False
     
 def OnDialogResponse(playerid, dialogid, response, listitem, inputtext):
-    if(dialogid == DIALOG_REGISTER):
-        mycursor.execute(f"INSERT INTO PlayerInfo(PlayerName, Password) VALUES('{GetPlayerName(playerid,MAX_PLAYER_NAME.get())}','{hashlib.sha256(inputtext).hexdigest()}')")
-        mydb.commit()
-        SendClientMessage(playerid,-1,"You have been registered sucessfully\nPlease login again to continue.")
+    if(dialogid == DIALOG_REGISTER): # {hashlib.sha256(inputtext).hexdigest()}
+        player = Players(name=GetPlayerName(playerid,MAX_PLAYER_NAME.get()),password=ReturnHashed(inputtext))
+        session.add(player)
+        session.commit()
+        SendClientMessage(playerid,COLOR_WHITE,"You have been registered sucessfully. Please login again to continue.")
         ShowPlayerDialog(playerid,DIALOG_LOGIN,DIALOG_STYLE_PASSWORD.get(),"Login","Please enter your password to Login.","Login","Exit")
         return True        
 
     elif(dialogid == DIALOG_LOGIN):
-        mycursor.execute(f"SELECT Password FROM PlayerInfo WHERE PlayerName = '{GetPlayerName(playerid,MAX_PLAYER_NAME.get())}'")
-        password = mycursor.fetchall()
-        if(len(password) > 1):
-            SendClientMessage(playerid,-1,"Something went wrong in our database please contact our staff.")
+        sql_password = session.query(Players.password).filter(Players.name == GetPlayerName(playerid,MAX_PLAYER_NAME.get())).one_or_none()[0]
+        if(ReturnHashed(inputtext) == sql_password):
+            SendClientMessage(playerid,COLOR_WHITE,"You have logged in sucessfully.!") 
+            LoadPlayer(playerid)
             return True
+        
         else:
-            if(password[0][0] == hashlib.sha256(inputtext).hexdigest()):
-                SendClientMessage(playerid,-1,"You have logged in sucessfully.!") 
-                LoadPlayer(playerid)
-                return True
-            else:
-                SendClientMessage(playerid,-1,"Incorrect Password Please try again.!")
-                ShowPlayerDialog(playerid,DIALOG_LOGIN,DIALOG_STYLE_PASSWORD.get(),"Login","Please enter your password to Login.","Login","Exit")
-                return True
+            SendClientMessage(playerid,COLOR_WHITE,"Incorrect Password Please try again.!")
+            ShowPlayerDialog(playerid,DIALOG_LOGIN,DIALOG_STYLE_PASSWORD.get(),"Login","Please enter your password to Login.","Login","Exit")
+            return True
+
     return False
     
 def OnPlayerTakeDamage(playerid, issuerid, amount, weaponid, bodypart):
@@ -377,24 +383,25 @@ def OnThreadingInit():
 def OnThreadingStopSignal():
     return None
 
+# =================== [ OBJECT ORIANTED APPROACH ] ================= #
+
+
+
 # ======================== [ FUNCTIONS ] =========================== #
 
 def IsPlayerRegistered(playerid):
-    mycursor.execute(f"SELECT COUNT(*) FROM PlayerInfo WHERE PlayerName = '{GetPlayerName(playerid,MAX_PLAYER_NAME.get())}'")
-    accounts = mycursor.fetchall()
-    if(accounts[0][0] == 0):
-        return False
-    elif(accounts[0][0] == 1):
+    if session.query(Players.name).filter(Players.name == GetPlayerName(playerid,MAX_PLAYER_NAME.get())).count():
         return True
     else:
-        print(f"Something went wrong. Number of accounts with Name: {GetPlayerName(playerid,MAX_PLAYER_NAME.get())} , are: {accounts[0][0]}")
-        SendClientMessage(playerid,-1,"Something went wrong in our database, please contact our staff.")
+        return False
 
 def LoadPlayer(playerid):
-    SpawnPlayer(playerid)
+    # SpawnPlayer(playerid)
     SendClientMessage(playerid,COLOR_PLAYER_DARKGREEN,"Welcome to our server, please enjoy your stay. <3")
     return True
 
+def ReturnHashed(password):
+    return hashlib.sha256(password).hexdigest()
 # ======================= [ COMMANDS ] ============================== #
 @cmd
 def setgm(playerid):

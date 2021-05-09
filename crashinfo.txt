@@ -4379,3 +4379,747 @@ CRYPT32.dll	A: 0x76160000 - 0x7625B000	(C:\Windows\System32\CRYPT32.dll)
 MSASN1.dll	A: 0x76150000 - 0x7615E000	(C:\Windows\System32\MSASN1.dll)
 libssl-1_1.dll	A: 0x6B620000 - 0x6B6A6000	(F:\PySAMP\interpreter\DLLs\libssl-1_1.dll)
 unicodedata.pyd	A: 0x6B510000 - 0x6B61B000	(F:\PySAMP\interpreter\DLLs\unicodedata.pyd)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x775235D2 Module: (KERNELBASE.dll)
+
+Registers:
+EAX: 0x0019FD38	EBX: 0x19930520	ECX: 0x00000003	EDX: 0x00000000
+ESI: 0x00000001	EDI: 0x6C6F12FC	EBP: 0x0019FD90	ESP: 0x0019FD38
+EFLAGS: 0x00000212
+
+Stack:
++0000: 0xE06D7363   0x00000001   0x00000000   0x775235D2
++0010: 0x00000003   0x19930520   0x0019FDD4   0x6C6F12FC
++0020: 0x0019FD68   0x6C6BA33B   0x006ABFC8   0x00000020
++0030: 0x0019FDBC   0x6C6BCD1F   0x006ABFC8   0x00000020
++0040: 0x6C6EBF4C   0x6C6BB295   0x33C9AA3A   0x02418D18
++0050: 0x00000001   0xDB55AB7D   0x0019FDC0   0x6C7675B6
++0060: 0xE06D7363   0x00000001   0x00000003   0x0019FDB4
++0070: 0x02418D18   0x02419280   0x0019FDD4   0x19930520
++0080: 0x0019FDD4   0x6C6F12FC   0x0019FDE8   0x6C6C6084
++0090: 0x0019FDD4   0x6C6F12FC   0x02419778   0x6C6B2A9C
++00A0: 0x006AC6E0   0x00000001   0x00000016   0x6C71315C
++00B0: 0x76509040   0x6C790A95   0x00000001   0x6C790E65
++00C0: 0x00469DFB   0x02419280   0x76509010   0x76513E40
++00D0: 0x00000000   0x02419280   0x0019FE8C   0x004AAC8E
++00E0: 0x00000000   0x0048D56F   0x00000000   0x000023F0
++00F0: 0x0019FF70   0x003C9000   0x00007E2C   0x00010101
++0100: 0x00000032   0x00001E61   0x0000024C   0x00002BE4
++0110: 0x024197A0   0x656D6167   0x65646F6D   0x00003531
++0120: 0x004C4020   0x004C401C   0x003C9000   0x004AB4A0
++0130: 0x0019FE58   0x0019FF60   0x0019FF60   0x0049D208
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(F:\PySAMP\samp-server.exe)
+ntdll.dll	A: 0x77E00000 - 0x77F9A000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x764F0000 - 0x765D0000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x77410000 - 0x7760C000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75EF0000 - 0x7646A000	(C:\Windows\System32\SHELL32.dll)
+ucrtbase.dll	A: 0x77CD0000 - 0x77DEF000	(C:\Windows\System32\ucrtbase.dll)
+cfgmgr32.dll	A: 0x764B0000 - 0x764EB000	(C:\Windows\System32\cfgmgr32.dll)
+shcore.dll	A: 0x77950000 - 0x779D4000	(C:\Windows\System32\shcore.dll)
+msvcrt.dll	A: 0x76E30000 - 0x76EEF000	(C:\Windows\System32\msvcrt.dll)
+RPCRT4.dll	A: 0x75D50000 - 0x75E0B000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x755D0000 - 0x755F0000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x755C0000 - 0x755CA000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75610000 - 0x7566F000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75670000 - 0x756E6000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x77080000 - 0x772F6000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x766B0000 - 0x76C75000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x75E10000 - 0x75E8C000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x765E0000 - 0x76659000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x75BA0000 - 0x75BB7000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x777A0000 - 0x777E3000	(C:\Windows\System32\powrprof.dll)
+UMPDC.dll	A: 0x77050000 - 0x7705D000	(C:\Windows\System32\UMPDC.dll)
+shlwapi.dll	A: 0x779F0000 - 0x77A34000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x77300000 - 0x77321000	(C:\Windows\System32\GDI32.dll)
+win32u.dll	A: 0x76490000 - 0x764A7000	(C:\Windows\System32\win32u.dll)
+gdi32full.dll	A: 0x76EF0000 - 0x7704A000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76C80000 - 0x76E17000	(C:\Windows\System32\USER32.dll)
+kernel.appcore.dll	A: 0x76470000 - 0x7647F000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x77060000 - 0x77073000	(C:\Windows\System32\cryptsp.dll)
+WINMM.dll	A: 0x74010000 - 0x74034000	(C:\Windows\SYSTEM32\WINMM.dll)
+WSOCK32.dll	A: 0x6C7E0000 - 0x6C7E8000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x777F0000 - 0x7784E000	(C:\Windows\System32\WS2_32.dll)
+WINMMBASE.dll	A: 0x73B00000 - 0x73B23000	(C:\Windows\SYSTEM32\WINMMBASE.dll)
+IMM32.DLL	A: 0x77330000 - 0x77355000	(C:\Windows\System32\IMM32.DLL)
+PySAMP.dll	A: 0x6C780000 - 0x6C7D4000	(F:\PySAMP\plugins\PySAMP.dll)
+MSVCP140.dll	A: 0x6C6B0000 - 0x6C71D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+python38.dll	A: 0x736E0000 - 0x73AD9000	(F:\PySAMP\interpreter\python38.dll)
+VCRUNTIME140.dll	A: 0x6C760000 - 0x6C774000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+VERSION.dll	A: 0x74CE0000 - 0x74CE8000	(C:\Windows\SYSTEM32\VERSION.dll)
+mswsock.dll	A: 0x75490000 - 0x754E2000	(C:\Windows\system32\mswsock.dll)
+napinsp.dll	A: 0x67540000 - 0x67551000	(C:\Windows\system32\napinsp.dll)
+DNSAPI.dll	A: 0x753F0000 - 0x75481000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x779E0000 - 0x779E7000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x753B0000 - 0x753E2000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x6C280000 - 0x6C28B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x73AE0000 - 0x73AF6000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x67530000 - 0x67540000	(C:\Windows\system32\wshbth.dll)
+bcrypt.dll	A: 0x755F0000 - 0x75609000	(C:\Windows\System32\bcrypt.dll)
+rasadhlp.dll	A: 0x753A0000 - 0x753A8000	(C:\Windows\System32\rasadhlp.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x775235D2 Module: (KERNELBASE.dll)
+
+Registers:
+EAX: 0x0019FD38	EBX: 0x19930520	ECX: 0x00000003	EDX: 0x00000000
+ESI: 0x00000001	EDI: 0x6C6F12FC	EBP: 0x0019FD90	ESP: 0x0019FD38
+EFLAGS: 0x00000212
+
+Stack:
++0000: 0xE06D7363   0x00000001   0x00000000   0x775235D2
++0010: 0x00000003   0x19930520   0x0019FDD4   0x6C6F12FC
++0020: 0x0019FD68   0x6C6BA33B   0x0088B350   0x00000020
++0030: 0x0019FDBC   0x6C6BCD1F   0x0088B350   0x00000020
++0040: 0x6C6EBF4C   0x6C6BB295   0xF8AB7858   0x02468C90
++0050: 0x00000001   0xBC20495A   0x0019FDC0   0x6C7675B6
++0060: 0xE06D7363   0x00000001   0x00000003   0x0019FDB4
++0070: 0x02468C90   0x02469278   0x0019FDD4   0x19930520
++0080: 0x0019FDD4   0x6C6F12FC   0x0019FDE8   0x6C6C6084
++0090: 0x0019FDD4   0x6C6F12FC   0x02469770   0x6C6B2A9C
++00A0: 0x0088B918   0x00000001   0x00000016   0x6C71315C
++00B0: 0x76509040   0x6C790A95   0x00000001   0x6C790E65
++00C0: 0x00469DFB   0x02469278   0x76509010   0x76513E40
++00D0: 0x00000000   0x02469278   0x0019FE8C   0x004AAC8E
++00E0: 0x00000000   0x0048D56F   0x00000000   0x000023F0
++00F0: 0x0019FF70   0x00310000   0x00007E2C   0x00010101
++0100: 0x00000032   0x00001E61   0x0000024C   0x00002E80
++0110: 0x02469798   0x656D6167   0x65646F6D   0x00003531
++0120: 0x004C4020   0x004C401C   0x00310000   0x004AB4A0
++0130: 0x0019FE58   0x0019FF60   0x0019FF60   0x0049D208
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(F:\PySAMP\samp-server.exe)
+ntdll.dll	A: 0x77E00000 - 0x77F9A000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x764F0000 - 0x765D0000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x77410000 - 0x7760C000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75EF0000 - 0x7646A000	(C:\Windows\System32\SHELL32.dll)
+ucrtbase.dll	A: 0x77CD0000 - 0x77DEF000	(C:\Windows\System32\ucrtbase.dll)
+cfgmgr32.dll	A: 0x764B0000 - 0x764EB000	(C:\Windows\System32\cfgmgr32.dll)
+shcore.dll	A: 0x77950000 - 0x779D4000	(C:\Windows\System32\shcore.dll)
+msvcrt.dll	A: 0x76E30000 - 0x76EEF000	(C:\Windows\System32\msvcrt.dll)
+RPCRT4.dll	A: 0x75D50000 - 0x75E0B000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x755D0000 - 0x755F0000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x755C0000 - 0x755CA000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75610000 - 0x7566F000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75670000 - 0x756E6000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x77080000 - 0x772F6000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x766B0000 - 0x76C75000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x75E10000 - 0x75E8C000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x765E0000 - 0x76659000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x75BA0000 - 0x75BB7000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x777A0000 - 0x777E3000	(C:\Windows\System32\powrprof.dll)
+UMPDC.dll	A: 0x77050000 - 0x7705D000	(C:\Windows\System32\UMPDC.dll)
+shlwapi.dll	A: 0x779F0000 - 0x77A34000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x77300000 - 0x77321000	(C:\Windows\System32\GDI32.dll)
+win32u.dll	A: 0x76490000 - 0x764A7000	(C:\Windows\System32\win32u.dll)
+gdi32full.dll	A: 0x76EF0000 - 0x7704A000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76C80000 - 0x76E17000	(C:\Windows\System32\USER32.dll)
+kernel.appcore.dll	A: 0x76470000 - 0x7647F000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x77060000 - 0x77073000	(C:\Windows\System32\cryptsp.dll)
+WINMM.dll	A: 0x74010000 - 0x74034000	(C:\Windows\SYSTEM32\WINMM.dll)
+WSOCK32.dll	A: 0x6C7E0000 - 0x6C7E8000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x777F0000 - 0x7784E000	(C:\Windows\System32\WS2_32.dll)
+WINMMBASE.dll	A: 0x73B00000 - 0x73B23000	(C:\Windows\SYSTEM32\WINMMBASE.dll)
+IMM32.DLL	A: 0x77330000 - 0x77355000	(C:\Windows\System32\IMM32.DLL)
+PySAMP.dll	A: 0x6C780000 - 0x6C7D4000	(F:\PySAMP\plugins\PySAMP.dll)
+VCRUNTIME140.dll	A: 0x6C760000 - 0x6C774000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+MSVCP140.dll	A: 0x6C6B0000 - 0x6C71D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+python38.dll	A: 0x736E0000 - 0x73AD9000	(F:\PySAMP\interpreter\python38.dll)
+VERSION.dll	A: 0x74CE0000 - 0x74CE8000	(C:\Windows\SYSTEM32\VERSION.dll)
+mswsock.dll	A: 0x75490000 - 0x754E2000	(C:\Windows\system32\mswsock.dll)
+napinsp.dll	A: 0x67540000 - 0x67551000	(C:\Windows\system32\napinsp.dll)
+DNSAPI.dll	A: 0x753F0000 - 0x75481000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x779E0000 - 0x779E7000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x753B0000 - 0x753E2000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x6C280000 - 0x6C28B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x73AE0000 - 0x73AF6000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x67530000 - 0x67540000	(C:\Windows\system32\wshbth.dll)
+bcrypt.dll	A: 0x755F0000 - 0x75609000	(C:\Windows\System32\bcrypt.dll)
+rasadhlp.dll	A: 0x753A0000 - 0x753A8000	(C:\Windows\System32\rasadhlp.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x775235D2 Module: (KERNELBASE.dll)
+
+Registers:
+EAX: 0x0019FD38	EBX: 0x19930520	ECX: 0x00000003	EDX: 0x00000000
+ESI: 0x00000001	EDI: 0x6C6F12FC	EBP: 0x0019FD90	ESP: 0x0019FD38
+EFLAGS: 0x00000212
+
+Stack:
++0000: 0xE06D7363   0x00000001   0x00000000   0x775235D2
++0010: 0x00000003   0x19930520   0x0019FDD4   0x6C6F12FC
++0020: 0x0019FD68   0x6C6BA33B   0x0066A7C8   0x00000020
++0030: 0x0019FDBC   0x6C6BCD1F   0x0066A7C8   0x00000020
++0040: 0x6C6EBF4C   0x6C6BB295   0xE7E8A3DF   0x024B8E30
++0050: 0x00000001   0xB9E0BF5B   0x0019FDC0   0x6C7675B6
++0060: 0xE06D7363   0x00000001   0x00000003   0x0019FDB4
++0070: 0x024B8E30   0x024B9278   0x0019FDD4   0x19930520
++0080: 0x0019FDD4   0x6C6F12FC   0x0019FDE8   0x6C6C6084
++0090: 0x0019FDD4   0x6C6F12FC   0x024B9770   0x6C6B2A9C
++00A0: 0x00644460   0x00000001   0x00000016   0x6C71315C
++00B0: 0x76509040   0x6C790A95   0x00000001   0x6C790E65
++00C0: 0x00469DFB   0x024B9278   0x76509010   0x76513E40
++00D0: 0x00000000   0x024B9278   0x0019FE8C   0x004AAC8E
++00E0: 0x00000000   0x0048D56F   0x00000000   0x000023F0
++00F0: 0x0019FF70   0x00210000   0x00007E2C   0x00010101
++0100: 0x00000032   0x00001E61   0x00000248   0x0000346C
++0110: 0x024B9798   0x656D6167   0x65646F6D   0x00003531
++0120: 0x004C4020   0x004C401C   0x00210000   0x004AB4A0
++0130: 0x0019FE58   0x0019FF60   0x0019FF60   0x0049D208
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(F:\PySAMP\samp-server.exe)
+ntdll.dll	A: 0x77E00000 - 0x77F9A000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x764F0000 - 0x765D0000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x77410000 - 0x7760C000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75EF0000 - 0x7646A000	(C:\Windows\System32\SHELL32.dll)
+ucrtbase.dll	A: 0x77CD0000 - 0x77DEF000	(C:\Windows\System32\ucrtbase.dll)
+cfgmgr32.dll	A: 0x764B0000 - 0x764EB000	(C:\Windows\System32\cfgmgr32.dll)
+shcore.dll	A: 0x77950000 - 0x779D4000	(C:\Windows\System32\shcore.dll)
+msvcrt.dll	A: 0x76E30000 - 0x76EEF000	(C:\Windows\System32\msvcrt.dll)
+RPCRT4.dll	A: 0x75D50000 - 0x75E0B000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x755D0000 - 0x755F0000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x755C0000 - 0x755CA000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75610000 - 0x7566F000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75670000 - 0x756E6000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x77080000 - 0x772F6000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x766B0000 - 0x76C75000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x75E10000 - 0x75E8C000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x765E0000 - 0x76659000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x75BA0000 - 0x75BB7000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x777A0000 - 0x777E3000	(C:\Windows\System32\powrprof.dll)
+UMPDC.dll	A: 0x77050000 - 0x7705D000	(C:\Windows\System32\UMPDC.dll)
+shlwapi.dll	A: 0x779F0000 - 0x77A34000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x77300000 - 0x77321000	(C:\Windows\System32\GDI32.dll)
+win32u.dll	A: 0x76490000 - 0x764A7000	(C:\Windows\System32\win32u.dll)
+gdi32full.dll	A: 0x76EF0000 - 0x7704A000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76C80000 - 0x76E17000	(C:\Windows\System32\USER32.dll)
+kernel.appcore.dll	A: 0x76470000 - 0x7647F000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x77060000 - 0x77073000	(C:\Windows\System32\cryptsp.dll)
+WINMM.dll	A: 0x74010000 - 0x74034000	(C:\Windows\SYSTEM32\WINMM.dll)
+WSOCK32.dll	A: 0x6C7E0000 - 0x6C7E8000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x777F0000 - 0x7784E000	(C:\Windows\System32\WS2_32.dll)
+WINMMBASE.dll	A: 0x73B00000 - 0x73B23000	(C:\Windows\SYSTEM32\WINMMBASE.dll)
+IMM32.DLL	A: 0x77330000 - 0x77355000	(C:\Windows\System32\IMM32.DLL)
+PySAMP.dll	A: 0x6C780000 - 0x6C7D4000	(F:\PySAMP\plugins\PySAMP.dll)
+VCRUNTIME140.dll	A: 0x6C760000 - 0x6C774000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+python38.dll	A: 0x736E0000 - 0x73AD9000	(F:\PySAMP\interpreter\python38.dll)
+MSVCP140.dll	A: 0x6C6B0000 - 0x6C71D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+VERSION.dll	A: 0x74CE0000 - 0x74CE8000	(C:\Windows\SYSTEM32\VERSION.dll)
+mswsock.dll	A: 0x75490000 - 0x754E2000	(C:\Windows\system32\mswsock.dll)
+napinsp.dll	A: 0x67540000 - 0x67551000	(C:\Windows\system32\napinsp.dll)
+DNSAPI.dll	A: 0x753F0000 - 0x75481000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x779E0000 - 0x779E7000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x753B0000 - 0x753E2000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x6C280000 - 0x6C28B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x73AE0000 - 0x73AF6000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x67530000 - 0x67540000	(C:\Windows\system32\wshbth.dll)
+bcrypt.dll	A: 0x755F0000 - 0x75609000	(C:\Windows\System32\bcrypt.dll)
+rasadhlp.dll	A: 0x753A0000 - 0x753A8000	(C:\Windows\System32\rasadhlp.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x775235D2 Module: (KERNELBASE.dll)
+
+Registers:
+EAX: 0x0019FD38	EBX: 0x19930520	ECX: 0x00000003	EDX: 0x00000000
+ESI: 0x00000001	EDI: 0x6C6F12FC	EBP: 0x0019FD90	ESP: 0x0019FD38
+EFLAGS: 0x00000212
+
+Stack:
++0000: 0xE06D7363   0x00000001   0x00000000   0x775235D2
++0010: 0x00000003   0x19930520   0x0019FDD4   0x6C6F12FC
++0020: 0x0019FD68   0x6C6BA33B   0x007F9C40   0x00000020
++0030: 0x0019FDBC   0x6C6BCD1F   0x007F9C40   0x00000020
++0040: 0x6C6EBF4C   0x6C6BB295   0xD4D98EFA   0x00B78DF0
++0050: 0x00000001   0x463BABC7   0x0019FDC0   0x6C7675B6
++0060: 0xE06D7363   0x00000001   0x00000003   0x0019FDB4
++0070: 0x00B78DF0   0x00B79278   0x0019FDD4   0x19930520
++0080: 0x0019FDD4   0x6C6F12FC   0x0019FDE8   0x6C6C6084
++0090: 0x0019FDD4   0x6C6F12FC   0x00B79770   0x6C6B2A9C
++00A0: 0x007FB078   0x00000001   0x00000016   0x6C71315C
++00B0: 0x76509040   0x6C790A95   0x00000001   0x6C790E65
++00C0: 0x00469DFB   0x00B79278   0x76509010   0x76513E40
++00D0: 0x00000000   0x00B79278   0x0019FE8C   0x004AAC8E
++00E0: 0x00000000   0x0048D56F   0x00000000   0x000023F0
++00F0: 0x0019FF70   0x003DB000   0x00007E2C   0x00010101
++0100: 0x00000032   0x00001E61   0x0000024C   0x00001700
++0110: 0x00B79798   0x656D6167   0x65646F6D   0x00003531
++0120: 0x004C4020   0x004C401C   0x003DB000   0x004AB4A0
++0130: 0x0019FE58   0x0019FF60   0x0019FF60   0x0049D208
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(F:\PySAMP\samp-server.exe)
+ntdll.dll	A: 0x77E00000 - 0x77F9A000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x764F0000 - 0x765D0000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x77410000 - 0x7760C000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75EF0000 - 0x7646A000	(C:\Windows\System32\SHELL32.dll)
+ucrtbase.dll	A: 0x77CD0000 - 0x77DEF000	(C:\Windows\System32\ucrtbase.dll)
+cfgmgr32.dll	A: 0x764B0000 - 0x764EB000	(C:\Windows\System32\cfgmgr32.dll)
+shcore.dll	A: 0x77950000 - 0x779D4000	(C:\Windows\System32\shcore.dll)
+msvcrt.dll	A: 0x76E30000 - 0x76EEF000	(C:\Windows\System32\msvcrt.dll)
+RPCRT4.dll	A: 0x75D50000 - 0x75E0B000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x755D0000 - 0x755F0000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x755C0000 - 0x755CA000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75610000 - 0x7566F000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75670000 - 0x756E6000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x77080000 - 0x772F6000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x766B0000 - 0x76C75000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x75E10000 - 0x75E8C000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x765E0000 - 0x76659000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x75BA0000 - 0x75BB7000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x777A0000 - 0x777E3000	(C:\Windows\System32\powrprof.dll)
+UMPDC.dll	A: 0x77050000 - 0x7705D000	(C:\Windows\System32\UMPDC.dll)
+shlwapi.dll	A: 0x779F0000 - 0x77A34000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x77300000 - 0x77321000	(C:\Windows\System32\GDI32.dll)
+win32u.dll	A: 0x76490000 - 0x764A7000	(C:\Windows\System32\win32u.dll)
+gdi32full.dll	A: 0x76EF0000 - 0x7704A000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76C80000 - 0x76E17000	(C:\Windows\System32\USER32.dll)
+kernel.appcore.dll	A: 0x76470000 - 0x7647F000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x77060000 - 0x77073000	(C:\Windows\System32\cryptsp.dll)
+WSOCK32.dll	A: 0x6C7E0000 - 0x6C7E8000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x777F0000 - 0x7784E000	(C:\Windows\System32\WS2_32.dll)
+WINMM.dll	A: 0x74010000 - 0x74034000	(C:\Windows\SYSTEM32\WINMM.dll)
+winmmbase.dll	A: 0x73B00000 - 0x73B23000	(C:\Windows\SYSTEM32\winmmbase.dll)
+IMM32.DLL	A: 0x77330000 - 0x77355000	(C:\Windows\System32\IMM32.DLL)
+PySAMP.dll	A: 0x6C780000 - 0x6C7D4000	(F:\PySAMP\plugins\PySAMP.dll)
+MSVCP140.dll	A: 0x6C6B0000 - 0x6C71D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x6C760000 - 0x6C774000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+python38.dll	A: 0x736E0000 - 0x73AD9000	(F:\PySAMP\interpreter\python38.dll)
+VERSION.dll	A: 0x74CE0000 - 0x74CE8000	(C:\Windows\SYSTEM32\VERSION.dll)
+mswsock.dll	A: 0x75490000 - 0x754E2000	(C:\Windows\system32\mswsock.dll)
+napinsp.dll	A: 0x67540000 - 0x67551000	(C:\Windows\system32\napinsp.dll)
+DNSAPI.dll	A: 0x753F0000 - 0x75481000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x779E0000 - 0x779E7000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x753B0000 - 0x753E2000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x6C280000 - 0x6C28B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x73AE0000 - 0x73AF6000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x67530000 - 0x67540000	(C:\Windows\system32\wshbth.dll)
+bcrypt.dll	A: 0x755F0000 - 0x75609000	(C:\Windows\System32\bcrypt.dll)
+rasadhlp.dll	A: 0x753A0000 - 0x753A8000	(C:\Windows\System32\rasadhlp.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x775235D2 Module: (KERNELBASE.dll)
+
+Registers:
+EAX: 0x0019FD38	EBX: 0x19930520	ECX: 0x00000003	EDX: 0x00000000
+ESI: 0x00000001	EDI: 0x6C6F12FC	EBP: 0x0019FD90	ESP: 0x0019FD38
+EFLAGS: 0x00000212
+
+Stack:
++0000: 0xE06D7363   0x00000001   0x00000000   0x775235D2
++0010: 0x00000003   0x19930520   0x0019FDD4   0x6C6F12FC
++0020: 0x0019FD68   0x6C6BA33B   0x006BB2E8   0x00000020
++0030: 0x0019FDBC   0x6C6BCD1F   0x006BB2E8   0x00000020
++0040: 0x6C6EBF4C   0x6C6BB295   0xD25D4A02   0x02378E30
++0050: 0x00000001   0x45A03137   0x0019FDC0   0x6C7675B6
++0060: 0xE06D7363   0x00000001   0x00000003   0x0019FDB4
++0070: 0x02378E30   0x02379278   0x0019FDD4   0x19930520
++0080: 0x0019FDD4   0x6C6F12FC   0x0019FDE8   0x6C6C6084
++0090: 0x0019FDD4   0x6C6F12FC   0x02379770   0x6C6B2A9C
++00A0: 0x03AC6638   0x00000001   0x00000016   0x6C71315C
++00B0: 0x76509040   0x6C790A95   0x00000001   0x6C790E65
++00C0: 0x00469DFB   0x02379278   0x76509010   0x76513E40
++00D0: 0x00000000   0x02379278   0x0019FE8C   0x004AAC8E
++00E0: 0x00000000   0x0048D56F   0x00000000   0x000023F0
++00F0: 0x0019FF70   0x0033C000   0x00007E2C   0x00010101
++0100: 0x00000032   0x00001E61   0x00000248   0x000006A8
++0110: 0x02379798   0x656D6167   0x65646F6D   0x00003531
++0120: 0x004C4020   0x004C401C   0x0033C000   0x004AB4A0
++0130: 0x0019FE58   0x0019FF60   0x0019FF60   0x0049D208
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(F:\PySAMP\samp-server.exe)
+ntdll.dll	A: 0x77E00000 - 0x77F9A000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x764F0000 - 0x765D0000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x77410000 - 0x7760C000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75EF0000 - 0x7646A000	(C:\Windows\System32\SHELL32.dll)
+ucrtbase.dll	A: 0x77CD0000 - 0x77DEF000	(C:\Windows\System32\ucrtbase.dll)
+cfgmgr32.dll	A: 0x764B0000 - 0x764EB000	(C:\Windows\System32\cfgmgr32.dll)
+shcore.dll	A: 0x77950000 - 0x779D4000	(C:\Windows\System32\shcore.dll)
+msvcrt.dll	A: 0x76E30000 - 0x76EEF000	(C:\Windows\System32\msvcrt.dll)
+RPCRT4.dll	A: 0x75D50000 - 0x75E0B000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x755D0000 - 0x755F0000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x755C0000 - 0x755CA000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75610000 - 0x7566F000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75670000 - 0x756E6000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x77080000 - 0x772F6000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x766B0000 - 0x76C75000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x75E10000 - 0x75E8C000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x765E0000 - 0x76659000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x75BA0000 - 0x75BB7000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x777A0000 - 0x777E3000	(C:\Windows\System32\powrprof.dll)
+UMPDC.dll	A: 0x77050000 - 0x7705D000	(C:\Windows\System32\UMPDC.dll)
+shlwapi.dll	A: 0x779F0000 - 0x77A34000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x77300000 - 0x77321000	(C:\Windows\System32\GDI32.dll)
+win32u.dll	A: 0x76490000 - 0x764A7000	(C:\Windows\System32\win32u.dll)
+gdi32full.dll	A: 0x76EF0000 - 0x7704A000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76C80000 - 0x76E17000	(C:\Windows\System32\USER32.dll)
+kernel.appcore.dll	A: 0x76470000 - 0x7647F000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x77060000 - 0x77073000	(C:\Windows\System32\cryptsp.dll)
+WSOCK32.dll	A: 0x6C7E0000 - 0x6C7E8000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WINMM.dll	A: 0x74010000 - 0x74034000	(C:\Windows\SYSTEM32\WINMM.dll)
+WS2_32.dll	A: 0x777F0000 - 0x7784E000	(C:\Windows\System32\WS2_32.dll)
+WINMMBASE.dll	A: 0x73B00000 - 0x73B23000	(C:\Windows\SYSTEM32\WINMMBASE.dll)
+IMM32.DLL	A: 0x77330000 - 0x77355000	(C:\Windows\System32\IMM32.DLL)
+PySAMP.dll	A: 0x6C780000 - 0x6C7D4000	(F:\PySAMP\plugins\PySAMP.dll)
+VCRUNTIME140.dll	A: 0x6C760000 - 0x6C774000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+MSVCP140.dll	A: 0x6C6B0000 - 0x6C71D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+python38.dll	A: 0x736E0000 - 0x73AD9000	(F:\PySAMP\interpreter\python38.dll)
+VERSION.dll	A: 0x74CE0000 - 0x74CE8000	(C:\Windows\SYSTEM32\VERSION.dll)
+mswsock.dll	A: 0x75490000 - 0x754E2000	(C:\Windows\system32\mswsock.dll)
+napinsp.dll	A: 0x67540000 - 0x67551000	(C:\Windows\system32\napinsp.dll)
+DNSAPI.dll	A: 0x753F0000 - 0x75481000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x779E0000 - 0x779E7000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x753B0000 - 0x753E2000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x6C280000 - 0x6C28B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x73AE0000 - 0x73AF6000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x67530000 - 0x67540000	(C:\Windows\system32\wshbth.dll)
+bcrypt.dll	A: 0x755F0000 - 0x75609000	(C:\Windows\System32\bcrypt.dll)
+rasadhlp.dll	A: 0x753A0000 - 0x753A8000	(C:\Windows\System32\rasadhlp.dll)
+python3.DLL	A: 0x74BC0000 - 0x74BCF000	(F:\PySAMP\interpreter\python3.DLL)
+libcrypto-1_1.dll	A: 0x74980000 - 0x74BA7000	(F:\PySAMP\interpreter\DLLs\libcrypto-1_1.dll)
+_decimal.pyd	A: 0x6C670000 - 0x6C6A9000	(F:\PySAMP\interpreter\DLLs\_decimal.pyd)
+_socket.pyd	A: 0x74780000 - 0x74791000	(F:\PySAMP\interpreter\DLLs\_socket.pyd)
+select.pyd	A: 0x74950000 - 0x74958000	(F:\PySAMP\interpreter\DLLs\select.pyd)
+_ssl.pyd	A: 0x6C640000 - 0x6C665000	(F:\PySAMP\interpreter\DLLs\_ssl.pyd)
+CRYPT32.dll	A: 0x77850000 - 0x7794B000	(C:\Windows\System32\CRYPT32.dll)
+MSASN1.dll	A: 0x76E20000 - 0x76E2E000	(C:\Windows\System32\MSASN1.dll)
+libssl-1_1.dll	A: 0x6C5B0000 - 0x6C636000	(F:\PySAMP\interpreter\DLLs\libssl-1_1.dll)
+_bz2.pyd	A: 0x74960000 - 0x74975000	(F:\PySAMP\interpreter\DLLs\_bz2.pyd)
+cimmutabledict.cp38-win32.pyd	A: 0x6C5A0000 - 0x6C5A7000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cimmutabledict.cp38-win32.pyd)
+_greenlet.cp38-win32.pyd	A: 0x6C590000 - 0x6C59B000	(F:\PySAMP\interpreter\lib\site-packages\greenlet\_greenlet.cp38-win32.pyd)
+_asyncio.pyd	A: 0x6C580000 - 0x6C58F000	(F:\PySAMP\interpreter\DLLs\_asyncio.pyd)
+_overlapped.pyd	A: 0x6C570000 - 0x6C57B000	(F:\PySAMP\interpreter\DLLs\_overlapped.pyd)
+cprocessors.cp38-win32.pyd	A: 0x6C560000 - 0x6C567000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cprocessors.cp38-win32.pyd)
+cresultproxy.cp38-win32.pyd	A: 0x6C550000 - 0x6C557000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cresultproxy.cp38-win32.pyd)
+_sqlite3.pyd	A: 0x6C530000 - 0x6C542000	(F:\PySAMP\interpreter\DLLs\_sqlite3.pyd)
+sqlite3.dll	A: 0x6C400000 - 0x6C522000	(F:\PySAMP\interpreter\DLLs\sqlite3.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x775235D2 Module: (KERNELBASE.dll)
+
+Registers:
+EAX: 0x0019FD38	EBX: 0x19930520	ECX: 0x00000003	EDX: 0x00000000
+ESI: 0x00000001	EDI: 0x6C6F12FC	EBP: 0x0019FD90	ESP: 0x0019FD38
+EFLAGS: 0x00000212
+
+Stack:
++0000: 0xE06D7363   0x00000001   0x00000000   0x775235D2
++0010: 0x00000003   0x19930520   0x0019FDD4   0x6C6F12FC
++0020: 0x0019FD68   0x6C6BA33B   0x0080AA00   0x00000020
++0030: 0x0019FDBC   0x6C6BCD1F   0x0080AA00   0x00000020
++0040: 0x6C6EBF4C   0x6C6BB295   0x7E3A74AA   0x00B28CF0
++0050: 0x00000001   0x4F5DAB17   0x0019FDC0   0x6C7675B6
++0060: 0xE06D7363   0x00000001   0x00000003   0x0019FDB4
++0070: 0x00B28CF0   0x00B29278   0x0019FDD4   0x19930520
++0080: 0x0019FDD4   0x6C6F12FC   0x0019FDE8   0x6C6C6084
++0090: 0x0019FDD4   0x6C6F12FC   0x00B29770   0x6C6B2A9C
++00A0: 0x03B30B20   0x00000001   0x00000016   0x6C71315C
++00B0: 0x76509040   0x6C790A95   0x00000001   0x6C790E65
++00C0: 0x00469DFB   0x00B29278   0x76509010   0x76513E40
++00D0: 0x00000000   0x00B29278   0x0019FE8C   0x004AAC8E
++00E0: 0x00000000   0x0048D56F   0x00000000   0x000023F0
++00F0: 0x0019FF70   0x00216000   0x00007E2C   0x00010101
++0100: 0x00000032   0x00001E61   0x0000024C   0x00000FA0
++0110: 0x00B29798   0x656D6167   0x65646F6D   0x00003531
++0120: 0x004C4020   0x004C401C   0x00216000   0x004AB4A0
++0130: 0x0019FE58   0x0019FF60   0x0019FF60   0x0049D208
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(F:\PySAMP\samp-server.exe)
+ntdll.dll	A: 0x77E00000 - 0x77F9A000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x764F0000 - 0x765D0000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x77410000 - 0x7760C000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75EF0000 - 0x7646A000	(C:\Windows\System32\SHELL32.dll)
+ucrtbase.dll	A: 0x77CD0000 - 0x77DEF000	(C:\Windows\System32\ucrtbase.dll)
+cfgmgr32.dll	A: 0x764B0000 - 0x764EB000	(C:\Windows\System32\cfgmgr32.dll)
+shcore.dll	A: 0x77950000 - 0x779D4000	(C:\Windows\System32\shcore.dll)
+msvcrt.dll	A: 0x76E30000 - 0x76EEF000	(C:\Windows\System32\msvcrt.dll)
+RPCRT4.dll	A: 0x75D50000 - 0x75E0B000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x755D0000 - 0x755F0000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x755C0000 - 0x755CA000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75610000 - 0x7566F000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75670000 - 0x756E6000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x77080000 - 0x772F6000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x766B0000 - 0x76C75000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x75E10000 - 0x75E8C000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x765E0000 - 0x76659000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x75BA0000 - 0x75BB7000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x777A0000 - 0x777E3000	(C:\Windows\System32\powrprof.dll)
+UMPDC.dll	A: 0x77050000 - 0x7705D000	(C:\Windows\System32\UMPDC.dll)
+shlwapi.dll	A: 0x779F0000 - 0x77A34000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x77300000 - 0x77321000	(C:\Windows\System32\GDI32.dll)
+win32u.dll	A: 0x76490000 - 0x764A7000	(C:\Windows\System32\win32u.dll)
+gdi32full.dll	A: 0x76EF0000 - 0x7704A000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76C80000 - 0x76E17000	(C:\Windows\System32\USER32.dll)
+kernel.appcore.dll	A: 0x76470000 - 0x7647F000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x77060000 - 0x77073000	(C:\Windows\System32\cryptsp.dll)
+WINMM.dll	A: 0x74010000 - 0x74034000	(C:\Windows\SYSTEM32\WINMM.dll)
+WSOCK32.dll	A: 0x6C7E0000 - 0x6C7E8000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WINMMBASE.dll	A: 0x73B00000 - 0x73B23000	(C:\Windows\SYSTEM32\WINMMBASE.dll)
+ws2_32.DLL	A: 0x777F0000 - 0x7784E000	(C:\Windows\System32\ws2_32.DLL)
+IMM32.DLL	A: 0x77330000 - 0x77355000	(C:\Windows\System32\IMM32.DLL)
+PySAMP.dll	A: 0x6C780000 - 0x6C7D4000	(F:\PySAMP\plugins\PySAMP.dll)
+MSVCP140.dll	A: 0x6C6B0000 - 0x6C71D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x6C760000 - 0x6C774000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+python38.dll	A: 0x736E0000 - 0x73AD9000	(F:\PySAMP\interpreter\python38.dll)
+VERSION.dll	A: 0x74CE0000 - 0x74CE8000	(C:\Windows\SYSTEM32\VERSION.dll)
+mswsock.dll	A: 0x75490000 - 0x754E2000	(C:\Windows\system32\mswsock.dll)
+napinsp.dll	A: 0x67540000 - 0x67551000	(C:\Windows\system32\napinsp.dll)
+DNSAPI.dll	A: 0x753F0000 - 0x75481000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x779E0000 - 0x779E7000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x753B0000 - 0x753E2000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x6C280000 - 0x6C28B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x73AE0000 - 0x73AF6000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x67530000 - 0x67540000	(C:\Windows\system32\wshbth.dll)
+bcrypt.dll	A: 0x755F0000 - 0x75609000	(C:\Windows\System32\bcrypt.dll)
+rasadhlp.dll	A: 0x753A0000 - 0x753A8000	(C:\Windows\System32\rasadhlp.dll)
+python3.DLL	A: 0x74BC0000 - 0x74BCF000	(F:\PySAMP\interpreter\python3.DLL)
+libcrypto-1_1.dll	A: 0x74980000 - 0x74BA7000	(F:\PySAMP\interpreter\DLLs\libcrypto-1_1.dll)
+_decimal.pyd	A: 0x6C670000 - 0x6C6A9000	(F:\PySAMP\interpreter\DLLs\_decimal.pyd)
+_socket.pyd	A: 0x74780000 - 0x74791000	(F:\PySAMP\interpreter\DLLs\_socket.pyd)
+select.pyd	A: 0x74950000 - 0x74958000	(F:\PySAMP\interpreter\DLLs\select.pyd)
+_ssl.pyd	A: 0x6C640000 - 0x6C665000	(F:\PySAMP\interpreter\DLLs\_ssl.pyd)
+CRYPT32.dll	A: 0x77850000 - 0x7794B000	(C:\Windows\System32\CRYPT32.dll)
+MSASN1.dll	A: 0x76E20000 - 0x76E2E000	(C:\Windows\System32\MSASN1.dll)
+libssl-1_1.dll	A: 0x6C5B0000 - 0x6C636000	(F:\PySAMP\interpreter\DLLs\libssl-1_1.dll)
+_bz2.pyd	A: 0x74960000 - 0x74975000	(F:\PySAMP\interpreter\DLLs\_bz2.pyd)
+cimmutabledict.cp38-win32.pyd	A: 0x6C5A0000 - 0x6C5A7000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cimmutabledict.cp38-win32.pyd)
+_greenlet.cp38-win32.pyd	A: 0x6C590000 - 0x6C59B000	(F:\PySAMP\interpreter\lib\site-packages\greenlet\_greenlet.cp38-win32.pyd)
+_asyncio.pyd	A: 0x6C580000 - 0x6C58F000	(F:\PySAMP\interpreter\DLLs\_asyncio.pyd)
+_overlapped.pyd	A: 0x6C570000 - 0x6C57B000	(F:\PySAMP\interpreter\DLLs\_overlapped.pyd)
+cprocessors.cp38-win32.pyd	A: 0x6C560000 - 0x6C567000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cprocessors.cp38-win32.pyd)
+cresultproxy.cp38-win32.pyd	A: 0x6C550000 - 0x6C557000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cresultproxy.cp38-win32.pyd)
+_sqlite3.pyd	A: 0x6C530000 - 0x6C542000	(F:\PySAMP\interpreter\DLLs\_sqlite3.pyd)
+sqlite3.dll	A: 0x6C400000 - 0x6C522000	(F:\PySAMP\interpreter\DLLs\sqlite3.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x775235D2 Module: (KERNELBASE.dll)
+
+Registers:
+EAX: 0x0019FD38	EBX: 0x19930520	ECX: 0x00000003	EDX: 0x00000000
+ESI: 0x00000001	EDI: 0x6C6F12FC	EBP: 0x0019FD90	ESP: 0x0019FD38
+EFLAGS: 0x00000212
+
+Stack:
++0000: 0xE06D7363   0x00000001   0x00000000   0x775235D2
++0010: 0x00000003   0x19930520   0x0019FDD4   0x6C6F12FC
++0020: 0x0019FD68   0x6C6BA33B   0x0082A790   0x00000020
++0030: 0x0019FDBC   0x6C6BCD1F   0x0082A790   0x00000020
++0040: 0x6C6EBF4C   0x6C6BB295   0x8644C54F   0x02418E10
++0050: 0x00000001   0x795DA36F   0x0019FDC0   0x6C7675B6
++0060: 0xE06D7363   0x00000001   0x00000003   0x0019FDB4
++0070: 0x02418E10   0x02419278   0x0019FDD4   0x19930520
++0080: 0x0019FDD4   0x6C6F12FC   0x0019FDE8   0x6C6C6084
++0090: 0x0019FDD4   0x6C6F12FC   0x02419770   0x6C6B2A9C
++00A0: 0x0084BEA8   0x00000001   0x00000016   0x6C71315C
++00B0: 0x76509040   0x6C790A95   0x00000001   0x6C790E65
++00C0: 0x00469DFB   0x02419278   0x76509010   0x76513E40
++00D0: 0x00000000   0x02419278   0x0019FE8C   0x004AAC8E
++00E0: 0x00000000   0x0048D56F   0x00000000   0x000023F0
++00F0: 0x0019FF70   0x00353000   0x00007E2C   0x00010101
++0100: 0x00000032   0x00001E61   0x00000258   0x000019F4
++0110: 0x02419798   0x656D6167   0x65646F6D   0x00003531
++0120: 0x004C4020   0x004C401C   0x00353000   0x004AB4A0
++0130: 0x0019FE58   0x0019FF60   0x0019FF60   0x0049D208
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(F:\PySAMP\samp-server.exe)
+ntdll.dll	A: 0x77E00000 - 0x77F9A000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x764F0000 - 0x765D0000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x77410000 - 0x7760C000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75EF0000 - 0x7646A000	(C:\Windows\System32\SHELL32.dll)
+ucrtbase.dll	A: 0x77CD0000 - 0x77DEF000	(C:\Windows\System32\ucrtbase.dll)
+cfgmgr32.dll	A: 0x764B0000 - 0x764EB000	(C:\Windows\System32\cfgmgr32.dll)
+shcore.dll	A: 0x77950000 - 0x779D4000	(C:\Windows\System32\shcore.dll)
+msvcrt.dll	A: 0x76E30000 - 0x76EEF000	(C:\Windows\System32\msvcrt.dll)
+RPCRT4.dll	A: 0x75D50000 - 0x75E0B000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x755D0000 - 0x755F0000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x755C0000 - 0x755CA000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75610000 - 0x7566F000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75670000 - 0x756E6000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x77080000 - 0x772F6000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x766B0000 - 0x76C75000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x75E10000 - 0x75E8C000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x765E0000 - 0x76659000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x75BA0000 - 0x75BB7000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x777A0000 - 0x777E3000	(C:\Windows\System32\powrprof.dll)
+UMPDC.dll	A: 0x77050000 - 0x7705D000	(C:\Windows\System32\UMPDC.dll)
+shlwapi.dll	A: 0x779F0000 - 0x77A34000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x77300000 - 0x77321000	(C:\Windows\System32\GDI32.dll)
+win32u.dll	A: 0x76490000 - 0x764A7000	(C:\Windows\System32\win32u.dll)
+gdi32full.dll	A: 0x76EF0000 - 0x7704A000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76C80000 - 0x76E17000	(C:\Windows\System32\USER32.dll)
+kernel.appcore.dll	A: 0x76470000 - 0x7647F000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x77060000 - 0x77073000	(C:\Windows\System32\cryptsp.dll)
+WINMM.dll	A: 0x74010000 - 0x74034000	(C:\Windows\SYSTEM32\WINMM.dll)
+WSOCK32.dll	A: 0x6C7E0000 - 0x6C7E8000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x777F0000 - 0x7784E000	(C:\Windows\System32\WS2_32.dll)
+WINMMBASE.dll	A: 0x73B00000 - 0x73B23000	(C:\Windows\SYSTEM32\WINMMBASE.dll)
+IMM32.DLL	A: 0x77330000 - 0x77355000	(C:\Windows\System32\IMM32.DLL)
+PySAMP.dll	A: 0x6C780000 - 0x6C7D4000	(F:\PySAMP\plugins\PySAMP.dll)
+MSVCP140.dll	A: 0x6C6B0000 - 0x6C71D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x6C760000 - 0x6C774000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+python38.dll	A: 0x736E0000 - 0x73AD9000	(F:\PySAMP\interpreter\python38.dll)
+VERSION.dll	A: 0x74CE0000 - 0x74CE8000	(C:\Windows\SYSTEM32\VERSION.dll)
+mswsock.dll	A: 0x75490000 - 0x754E2000	(C:\Windows\system32\mswsock.dll)
+napinsp.dll	A: 0x67540000 - 0x67551000	(C:\Windows\system32\napinsp.dll)
+DNSAPI.dll	A: 0x753F0000 - 0x75481000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x779E0000 - 0x779E7000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x753B0000 - 0x753E2000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x6C280000 - 0x6C28B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x73AE0000 - 0x73AF6000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x67530000 - 0x67540000	(C:\Windows\system32\wshbth.dll)
+bcrypt.dll	A: 0x755F0000 - 0x75609000	(C:\Windows\System32\bcrypt.dll)
+rasadhlp.dll	A: 0x753A0000 - 0x753A8000	(C:\Windows\System32\rasadhlp.dll)
+python3.DLL	A: 0x74BC0000 - 0x74BCF000	(F:\PySAMP\interpreter\python3.DLL)
+libcrypto-1_1.dll	A: 0x74980000 - 0x74BA7000	(F:\PySAMP\interpreter\DLLs\libcrypto-1_1.dll)
+_decimal.pyd	A: 0x6C670000 - 0x6C6A9000	(F:\PySAMP\interpreter\DLLs\_decimal.pyd)
+_socket.pyd	A: 0x74780000 - 0x74791000	(F:\PySAMP\interpreter\DLLs\_socket.pyd)
+select.pyd	A: 0x74950000 - 0x74958000	(F:\PySAMP\interpreter\DLLs\select.pyd)
+_ssl.pyd	A: 0x6C640000 - 0x6C665000	(F:\PySAMP\interpreter\DLLs\_ssl.pyd)
+CRYPT32.dll	A: 0x77850000 - 0x7794B000	(C:\Windows\System32\CRYPT32.dll)
+MSASN1.dll	A: 0x76E20000 - 0x76E2E000	(C:\Windows\System32\MSASN1.dll)
+libssl-1_1.dll	A: 0x6C5B0000 - 0x6C636000	(F:\PySAMP\interpreter\DLLs\libssl-1_1.dll)
+_bz2.pyd	A: 0x74960000 - 0x74975000	(F:\PySAMP\interpreter\DLLs\_bz2.pyd)
+cimmutabledict.cp38-win32.pyd	A: 0x6C5A0000 - 0x6C5A7000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cimmutabledict.cp38-win32.pyd)
+_greenlet.cp38-win32.pyd	A: 0x6C590000 - 0x6C59B000	(F:\PySAMP\interpreter\lib\site-packages\greenlet\_greenlet.cp38-win32.pyd)
+_asyncio.pyd	A: 0x6C580000 - 0x6C58F000	(F:\PySAMP\interpreter\DLLs\_asyncio.pyd)
+_overlapped.pyd	A: 0x6C570000 - 0x6C57B000	(F:\PySAMP\interpreter\DLLs\_overlapped.pyd)
+cprocessors.cp38-win32.pyd	A: 0x6C560000 - 0x6C567000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cprocessors.cp38-win32.pyd)
+cresultproxy.cp38-win32.pyd	A: 0x6C550000 - 0x6C557000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cresultproxy.cp38-win32.pyd)
+_sqlite3.pyd	A: 0x6C530000 - 0x6C542000	(F:\PySAMP\interpreter\DLLs\_sqlite3.pyd)
+sqlite3.dll	A: 0x6C400000 - 0x6C522000	(F:\PySAMP\interpreter\DLLs\sqlite3.dll)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x775235D2 Module: (KERNELBASE.dll)
+
+Registers:
+EAX: 0x0019FD38	EBX: 0x19930520	ECX: 0x00000003	EDX: 0x00000000
+ESI: 0x00000001	EDI: 0x6C6F12FC	EBP: 0x0019FD90	ESP: 0x0019FD38
+EFLAGS: 0x00000212
+
+Stack:
++0000: 0xE06D7363   0x00000001   0x00000000   0x775235D2
++0010: 0x00000003   0x19930520   0x0019FDD4   0x6C6F12FC
++0020: 0x0019FD68   0x6C6BA33B   0x00738BB8   0x00000020
++0030: 0x0019FDBC   0x6C6BCD1F   0x00738BB8   0x00000020
++0040: 0x6C6EBF4C   0x6C6BB295   0x2EDDB8E6   0x02338CA0
++0050: 0x00000001   0x92A95078   0x0019FDC0   0x6C7675B6
++0060: 0xE06D7363   0x00000001   0x00000003   0x0019FDB4
++0070: 0x02338CA0   0x02339278   0x0019FDD4   0x19930520
++0080: 0x0019FDD4   0x6C6F12FC   0x0019FDE8   0x6C6C6084
++0090: 0x0019FDD4   0x6C6F12FC   0x02339770   0x6C6B2A9C
++00A0: 0x007A7A58   0x00000001   0x00000016   0x6C71315C
++00B0: 0x76509040   0x6C790A95   0x00000001   0x6C790E65
++00C0: 0x00469DFB   0x02339278   0x76509010   0x76513E40
++00D0: 0x00000000   0x02339278   0x0019FE8C   0x004AAC8E
++00E0: 0x00000000   0x0048D56F   0x00000000   0x000023F0
++00F0: 0x0019FF70   0x00366000   0x00007E2C   0x00010101
++0100: 0x00000032   0x00001E61   0x000000D4   0x00003124
++0110: 0x02339798   0x656D6167   0x65646F6D   0x00003531
++0120: 0x004C4020   0x004C401C   0x00366000   0x004AB4A0
++0130: 0x0019FE58   0x0019FF60   0x0019FF60   0x0049D208
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(F:\PySAMP\samp-server.exe)
+ntdll.dll	A: 0x77E00000 - 0x77F9A000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x764F0000 - 0x765D0000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x77410000 - 0x7760C000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75EF0000 - 0x7646A000	(C:\Windows\System32\SHELL32.dll)
+ucrtbase.dll	A: 0x77CD0000 - 0x77DEF000	(C:\Windows\System32\ucrtbase.dll)
+cfgmgr32.dll	A: 0x764B0000 - 0x764EB000	(C:\Windows\System32\cfgmgr32.dll)
+shcore.dll	A: 0x77950000 - 0x779D4000	(C:\Windows\System32\shcore.dll)
+msvcrt.dll	A: 0x76E30000 - 0x76EEF000	(C:\Windows\System32\msvcrt.dll)
+RPCRT4.dll	A: 0x75D50000 - 0x75E0B000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x755D0000 - 0x755F0000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x755C0000 - 0x755CA000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75610000 - 0x7566F000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75670000 - 0x756E6000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x77080000 - 0x772F6000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x766B0000 - 0x76C75000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x75E10000 - 0x75E8C000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x765E0000 - 0x76659000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x75BA0000 - 0x75BB7000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x777A0000 - 0x777E3000	(C:\Windows\System32\powrprof.dll)
+UMPDC.dll	A: 0x77050000 - 0x7705D000	(C:\Windows\System32\UMPDC.dll)
+shlwapi.dll	A: 0x779F0000 - 0x77A34000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x77300000 - 0x77321000	(C:\Windows\System32\GDI32.dll)
+win32u.dll	A: 0x76490000 - 0x764A7000	(C:\Windows\System32\win32u.dll)
+gdi32full.dll	A: 0x76EF0000 - 0x7704A000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76C80000 - 0x76E17000	(C:\Windows\System32\USER32.dll)
+kernel.appcore.dll	A: 0x76470000 - 0x7647F000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x77060000 - 0x77073000	(C:\Windows\System32\cryptsp.dll)
+WINMM.dll	A: 0x74010000 - 0x74034000	(C:\Windows\SYSTEM32\WINMM.dll)
+WSOCK32.dll	A: 0x6C7E0000 - 0x6C7E8000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x777F0000 - 0x7784E000	(C:\Windows\System32\WS2_32.dll)
+winmmbase.dll	A: 0x73B00000 - 0x73B23000	(C:\Windows\SYSTEM32\winmmbase.dll)
+IMM32.DLL	A: 0x77330000 - 0x77355000	(C:\Windows\System32\IMM32.DLL)
+PySAMP.dll	A: 0x6C780000 - 0x6C7D4000	(F:\PySAMP\plugins\PySAMP.dll)
+VCRUNTIME140.dll	A: 0x6C760000 - 0x6C774000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+MSVCP140.dll	A: 0x6C6B0000 - 0x6C71D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+python38.dll	A: 0x736E0000 - 0x73AD9000	(F:\PySAMP\interpreter\python38.dll)
+VERSION.dll	A: 0x74CE0000 - 0x74CE8000	(C:\Windows\SYSTEM32\VERSION.dll)
+mswsock.dll	A: 0x75490000 - 0x754E2000	(C:\Windows\system32\mswsock.dll)
+napinsp.dll	A: 0x67540000 - 0x67551000	(C:\Windows\system32\napinsp.dll)
+DNSAPI.dll	A: 0x753F0000 - 0x75481000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x779E0000 - 0x779E7000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x753B0000 - 0x753E2000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x6C280000 - 0x6C28B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x73AE0000 - 0x73AF6000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x67530000 - 0x67540000	(C:\Windows\system32\wshbth.dll)
+bcrypt.dll	A: 0x755F0000 - 0x75609000	(C:\Windows\System32\bcrypt.dll)
+rasadhlp.dll	A: 0x753A0000 - 0x753A8000	(C:\Windows\System32\rasadhlp.dll)
+python3.DLL	A: 0x74BC0000 - 0x74BCF000	(F:\PySAMP\interpreter\python3.DLL)
+libcrypto-1_1.dll	A: 0x74980000 - 0x74BA7000	(F:\PySAMP\interpreter\DLLs\libcrypto-1_1.dll)
+_decimal.pyd	A: 0x6C670000 - 0x6C6A9000	(F:\PySAMP\interpreter\DLLs\_decimal.pyd)
+_socket.pyd	A: 0x74780000 - 0x74791000	(F:\PySAMP\interpreter\DLLs\_socket.pyd)
+select.pyd	A: 0x74950000 - 0x74958000	(F:\PySAMP\interpreter\DLLs\select.pyd)
+_ssl.pyd	A: 0x6C640000 - 0x6C665000	(F:\PySAMP\interpreter\DLLs\_ssl.pyd)
+CRYPT32.dll	A: 0x77850000 - 0x7794B000	(C:\Windows\System32\CRYPT32.dll)
+MSASN1.dll	A: 0x76E20000 - 0x76E2E000	(C:\Windows\System32\MSASN1.dll)
+libssl-1_1.dll	A: 0x6C5B0000 - 0x6C636000	(F:\PySAMP\interpreter\DLLs\libssl-1_1.dll)
+_bz2.pyd	A: 0x74960000 - 0x74975000	(F:\PySAMP\interpreter\DLLs\_bz2.pyd)
+cimmutabledict.cp38-win32.pyd	A: 0x6C5A0000 - 0x6C5A7000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cimmutabledict.cp38-win32.pyd)
+_greenlet.cp38-win32.pyd	A: 0x6C590000 - 0x6C59B000	(F:\PySAMP\interpreter\lib\site-packages\greenlet\_greenlet.cp38-win32.pyd)
+_asyncio.pyd	A: 0x6C580000 - 0x6C58F000	(F:\PySAMP\interpreter\DLLs\_asyncio.pyd)
+_overlapped.pyd	A: 0x6C570000 - 0x6C57B000	(F:\PySAMP\interpreter\DLLs\_overlapped.pyd)
+cprocessors.cp38-win32.pyd	A: 0x6C560000 - 0x6C567000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cprocessors.cp38-win32.pyd)
+cresultproxy.cp38-win32.pyd	A: 0x6C550000 - 0x6C557000	(F:\PySAMP\interpreter\lib\site-packages\sqlalchemy\cresultproxy.cp38-win32.pyd)
+_sqlite3.pyd	A: 0x6C530000 - 0x6C542000	(F:\PySAMP\interpreter\DLLs\_sqlite3.pyd)
+sqlite3.dll	A: 0x6C400000 - 0x6C522000	(F:\PySAMP\interpreter\DLLs\sqlite3.dll)
