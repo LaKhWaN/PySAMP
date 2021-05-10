@@ -3053,3 +3053,190 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [19:23:06] [connection] incoming connection: 192.168.29.204:57379 id: 0
 [19:23:06] [join] Prince_Lakhwan has joined the server (0:192.168.29.204)
 [19:28:33] [part] Prince_Lakhwan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:53:41] 
+[09:53:41] Server Plugins
+[09:53:41] --------------
+[09:53:41]  Loading plugin: PySAMP.dll
+[09:53:41]   Loaded.
+[09:53:41]  Loaded 1 plugins.
+
+[09:53:41] 
+[09:53:41] Filterscripts
+[09:53:41] ---------------
+[09:53:41]   Loaded 0 filterscripts.
+
+[09:53:41] Loading PYSAMP
+[09:53:41] Loading PySAMP gamemode
+[09:53:41] PyGamemode::PyGamemode(\python)
+[09:53:42] Initializing Threading
+[09:53:42] Initialized Threading
+[09:53:44] Number of vehicle models: 0
+[09:54:11] [connection] 192.168.29.204:49793 requests connection cookie.
+[09:54:12] [connection] incoming connection: 192.168.29.204:49793 id: 0
+[09:54:12] [join] Prince_Lakhwan has joined the server (0:192.168.29.204)
+[09:54:21] /makeadmin
+[09:54:35] /makeadmin 0 2
+[09:55:02] /setgm
+[09:55:03] /setgm1
+[09:55:09] /setgm hi
+[09:55:14] /setgm1 hi
+[09:55:28] /setgm1 HELO
+[09:55:30] /setgm HELO
+[09:55:31] /setgm HELO
+[09:55:33] /setgm HELO
+[09:55:36] /setgm1 HELO
+[09:55:37] /setgm1 HELO
+Console input: exit
+[09:56:47] --- Server Shutting Down.
+[09:56:47] Stopping PYSAMP-Threading
+[09:56:47] [part] Prince_Lakhwan has left the server (0:0)
+[09:56:47] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:56:48] 
+[09:56:48] Server Plugins
+[09:56:48] --------------
+[09:56:48]  Loading plugin: PySAMP.dll
+[09:56:48]   Loaded.
+[09:56:48]  Loaded 1 plugins.
+
+[09:56:48] 
+[09:56:48] Filterscripts
+[09:56:48] ---------------
+[09:56:48]   Loaded 0 filterscripts.
+
+[09:56:48] Loading PYSAMP
+[09:56:48] Loading PySAMP gamemode
+[09:56:48] PyGamemode::PyGamemode(\python)
+[09:56:48] Initializing Threading
+[09:56:48] Initialized Threading
+[09:56:50] Number of vehicle models: 0
+Console input: F:/PySAMP/interpreter/python.exe f:/PySAMP/python/gamemode.py
+Console input: exit
+[09:57:43] --- Server Shutting Down.
+[09:57:43] Stopping PYSAMP-Threading
+[09:57:43] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:58:15] 
+[09:58:15] Server Plugins
+[09:58:15] --------------
+[09:58:15]  Loading plugin: PySAMP.dll
+[09:58:15]   Loaded.
+[09:58:15]  Loaded 1 plugins.
+
+[09:58:15] 
+[09:58:15] Filterscripts
+[09:58:15] ---------------
+[09:58:15]   Loaded 0 filterscripts.
+
+[09:58:15] Loading PYSAMP
+[09:58:15] Loading PySAMP gamemode
+[09:58:15] PyGamemode::PyGamemode(\python)
+[09:58:16] Initializing Threading
+[09:58:16] Initialized Threading
+[09:58:18] Number of vehicle models: 0
+[09:58:36] [connection] 192.168.29.204:50819 requests connection cookie.
+[09:58:37] [connection] incoming connection: 192.168.29.204:50819 id: 0
+[09:58:38] [join] Prince_Lakhwan has joined the server (0:192.168.29.204)
+[09:58:52] /lakhwanop
+Console input: exit
+[10:00:13] --- Server Shutting Down.
+[10:00:13] Stopping PYSAMP-Threading
+[10:00:13] [part] Prince_Lakhwan has left the server (0:0)
+[10:00:13] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:00:14] 
+[10:00:14] Server Plugins
+[10:00:14] --------------
+[10:00:14]  Loading plugin: PySAMP.dll
+[10:00:14]   Loaded.
+[10:00:14]  Loaded 1 plugins.
+
+[10:00:14] 
+[10:00:14] Filterscripts
+[10:00:14] ---------------
+[10:00:14]   Loaded 0 filterscripts.
+
+[10:00:14] Loading PYSAMP
+[10:00:14] Loading PySAMP gamemode
+[10:00:14] PyGamemode::PyGamemode(\python)
+[10:00:14] Initializing Threading
+[10:00:14] Initialized Threading
+[10:00:16] Number of vehicle models: 0
+[10:00:58] [connection] 192.168.29.204:51448 requests connection cookie.
+[10:00:59] [connection] incoming connection: 192.168.29.204:51448 id: 0
+[10:00:59] [join] Prince_Lakhwan has joined the server (0:192.168.29.204)
+Console input: exit
+[10:01:49] --- Server Shutting Down.
+[10:01:49] Stopping PYSAMP-Threading
+[10:01:49] [part] Prince_Lakhwan has left the server (0:0)
+[10:01:49] Stopping PYSAMP-Threading
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:01:50] 
+[10:01:50] Server Plugins
+[10:01:50] --------------
+[10:01:50]  Loading plugin: PySAMP.dll
+[10:01:50]   Loaded.
+[10:01:50]  Loaded 1 plugins.
+
+[10:01:50] 
+[10:01:50] Filterscripts
+[10:01:50] ---------------
+[10:01:50]   Loaded 0 filterscripts.
+
+[10:01:50] Loading PYSAMP
+[10:01:50] Loading PySAMP gamemode
+[10:01:50] PyGamemode::PyGamemode(\python)
+[10:01:50] Initializing Threading
+[10:01:50] Initialized Threading
+[10:01:52] Number of vehicle models: 0
+[10:02:10] [connection] 192.168.29.204:51301 requests connection cookie.
+[10:02:12] [connection] incoming connection: 192.168.29.204:51301 id: 0
+[10:02:12] [join] Prince_Lakhwan has joined the server (0:192.168.29.204)
+[10:02:21] /makeadmin 0 1
+[10:03:19] /lakhwanop
+Console input: exit
+[10:03:42] --- Server Shutting Down.
+[10:03:42] Stopping PYSAMP-Threading
+[10:03:42] [part] Prince_Lakhwan has left the server (0:0)
+[10:03:43] Stopping PYSAMP-Threading

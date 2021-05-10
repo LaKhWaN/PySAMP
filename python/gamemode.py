@@ -1,160 +1,16 @@
 from samp import *
 from const import *
-import mysql.connector as sql
 import time
 from cmdparser import *
 import hashlib
-from sqlalchemy import create_engine, Column, String, Integer, ForeignKey
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker
+from defines import *
+from connection import * 
 
-# ===================== [ DEFINES ] ========================== #
-
-# SQL DEFINES
-# SQL_HOST    =   "localhost"
-# SQL_USER    =   "root"
-# SQL_PASS    =   ""
-# SQL_DB      =   "pysamp"
-
-# DIALOG DEFINES
-DIALOG_LOGIN = 0
-DIALOG_REGISTER = 1
-
-# COLOR DEFINES
-COLOR_GROUP  =  0x216B98FF
-COLOR_HELPEROOC  =  0xADFF2FFF
-COLOR_HELPERCHAT  =  0xf3d7b9FF
-COLOR_GARAGE  =  0x0066CCFF
-COLOR_GM_REG  =  0xFFFFFFAA
-COLOR_GM_UNREG  =  0xFF9999AA
-COLOR_GM_ADMIN  =  0xFFCC66AA
-COLOR_IRC  =  0x66CCFFAA
-COLOR_ADMINCHAT  =  0xFF9933AA
-COLOR_SYSTEM_PM  =  0x66CC00AA
-COLOR_SYSTEM_GM  =  0xFF9966AA
-COLOR_SYSTEM_PW  =  0xFFFF33AA
-COLOR_SYSTEM_GW  =  0xCCCCCCAA
-COLOR_MONEY_INC  =  0x00CC66AA
-COLOR_MONEY_DEC  =  0xFF6600AA
-COLOR_CMD  =  0xFFFFFFAA
-COLOR_ADMIN_CMD  =  0xCC6666AA
-COLOR_ADMIN_PM  =  0x6699CCAA
-COLOR_ADMIN_PW  =  0x99CCFFAA
-COLOR_ADMIN_GM  =  0xFF6633AA
-COLOR_STATS  =  0xCCCCFFAA
-COLOR_MESSAGE  =  0xFFCCFFAA
-COLOR_RULES  =  0xDC143CAA
-COLOR_ADMIN_TOALL  =  0x00FFFFAA
-COLOR_GROUPTALK  =  0x87CEEBAA
-COLOR_ADMIN_REPORT  =  0xFF69B4AA
-COLOR_ADMIN_SPYREPORT  =  0xB0E0E6AA
-COLOR_ADMIN  =  0xFF8200FF
-COLOR_CARDIVE  =  0xEE82EEAA
-COLOR_BLACK_PD  =  0x000000FF
-COLOR_WHITE_PD  =  0xFFFFFFFF
-COLOR_DISARMING  =  0xEE82EEBB
-COLOR_WHITE  =  0xFFFFFF77
-COLOR_ORANGE  =  0xFF9900AA
-COLOR_PLAYER_ORANGE  =  0xFF9900AA
-COLOR_PLAYER_KEMIROV  =  0xb89571FF
-COLOR_PLAYER_SAN  =  0xFF0909FF
-COLOR_IVORY  =  0xFFFF82FF
-COLOR_BLUE  =  0x0000FFFF
-COLOR_PURPLE  =  0x800080FF
-COLOR_RED  =  0xCC3300FF
-COLOR_PIR  =  0x80BFBF
-COLOR_RED22  =  0xCC3300FF
-COLOR_LIGHTGREEN  =  0x4BB32BFF
-COLOR_VIOLET  =  0xEE82EEFF
-COLOR_YELLOW  =  0xFFFF00FF
-COLOR_SILVER  =  0xC0C0C0FF
-COLOR_LIGHTBLUE  =  0x87CEFAFF
-COLOR_PINK  =  0xFFB6C1FF
-COLOR_INDIGO  =  0x4B00B0FF
-COLOR_GOLD  =  0xFFD700FF
-COLOR_FIREBRICK  =  0xB22222FF
-COLOR_GREEN  =  0x008000FF
-COLOR_LIGHTYELLOW  =  0xFAFA02FF
-COLOR_GREY  =  0x778899FF
-COLOR_LIGHTGREY  =  0xCCCCCCFF
-COLOR_LIGHTGREYEX  =  0xA3A0A0FF
-COLOR_MAGENTA  =  0xFF00FFFF
-COLOR_BRIGHTGREEN  =  0x7CFC00FF
-COLOR_DARKBLUE  =  0x000080AFF
-COLOR_SYSTEM  =  0xDB7093FF
-COLOR_BROWN  =  0x8B4513FF
-COLOR_GREENYELLOW  =  0xADFF2FFF
-COLOR_THISTLE  =  0xD8BFD8FF
-COLOR_TURQUISE  =  0x48D1CCFF
-COLOR_MAROON  =  0x800000FF
-COLOR_STEELBLUE  =  0xB0C4DEFF
-COLOR_GROUP_CHAT  =  0xFFFF80C8
-COLOR_ME  =  0xC2A2DAAA
-COLOR_ME2  =  0xC3A3DBAA
-COLOR_GRAD1  =  0xB4B5B7FF
-COLOR_GRAD2  =  0xBFC0C2FF
-COLOR_GRAD3  =  0xCBCCCEFF
-COLOR_LIME  =  0x81F600AA
-COLOR_ERROR  =  0xFFB0B0DD
-COLOR_USAGE  =  0xD9D9D9FF
-COLOR_INFO  =  0xFFB0B0DD
-
-COLOR_PLAYER_LIGHTBLUE  =  0x9292FFDD
-COLOR_PLAYER_VLIGHTBLUE  =  0x66FFFFFF
-COLOR_PLAYER_BLUE  =  0xA098F0AA
-COLOR_PLAYER_NOOSE  =  0xFFFFFF77
-COLOR_PLAYER_NOOSEHIGH  =  0xFFFFFF77
-COLOR_PLAYER_DARKBLUE  =  0x000096FF
-COLOR_PLAYER_SPECIALBLUE  =  0x4169FFFF
-COLOR_PLAYER_LIGHTRED  =  0xFFB0B0DD
-COLOR_PLAYER_RED  =  0xFF0000DD
-COLOR_PLAYER_DARKRED  =  0xA10000FF
-COLOR_PLAYER_SPECIALRED  =  0xB22222DD
-COLOR_PLAYER_LIGHTGREEN  =  0x92FF92DD
-COLOR_PLAYER_GREEN  =  0x00FF00DD
-COLOR_PLAYER_DARKGREEN  =  0x009600DD
-COLOR_PLAYER_SPECIALGREEN  =  0x00FF00FF
-COLOR_PLAYER_LIGHTYELLOW  =  0xFFFF5EDD
-COLOR_PLAYER_YELLOW  =  0xFFFF00DD
-COLOR_PLAYER_DARKYELLOW  =  0xD3D300FF
-COLOR_PLAYER_SPECIALYELLOW  =  0xCFAE00DD
-COLOR_PLAYER_LIGHTPURPLE  =  0xFF92FFDD
-COLOR_PLAYER_PURPLE  =  0xFF00FFDD
-COLOR_PLAYER_DARKPURPLE  =  0x800080FF
-COLOR_PLAYER_SPECIALPURPLE  =  0xDA70D6DD
-COLOR_PLAYER_LIGHTBROWN  =  0xBA9072DD
-COLOR_PLAYER_BROWN  =  0x663300FF
-COLOR_PLAYER_DARKBROWN  =  0x6D360EDD
-COLOR_PLAYER_LIGHTGREY  =  0xC7C7C7DD
-COLOR_PLAYER_GREY  =  0x8B8B8BDD
-COLOR_PLAYER_DARKGREY  =  0x656565FF
-COLOR_PLAYER_WHITE  =  0xFFFFFF77
-COLOR_PLAYER_WHITE_INV  =  0xFFFFFFFF
-COLOR_PLAYER_BLACK  =  0x212121FF
-COLOR_PLAYER_AQUAMARINE  =  0x7FFFD4DD
-COLOR_PLAYER_CYAN  =  0x00FFFFDD
-COLOR_PLAYER_VIOLET  =  0xCC0066AA
-COLOR_PLAYER_SASF  =  0x556B2FFF
-COLOR_PLAYER_POLITIC  =  0xCC9999FF
-COLOR_PLAYER_MEXICAN1  =  0xFFFF8099
-COLOR_PLAYER_BLACK1  =  0x741827FF
-
-# ==================== [ TABLE CREATION AND OTHER THINGS ] ================== #
-
-Base = declarative_base()
-
-class Players(Base):
-    __tablename__ = "players"
-
-    id = Column(Integer, primary_key=True)
-    name = Column(String(24), unique=True, nullable=False)
-    password = Column(String(64), nullable=False)
-
-engine = create_engine("sqlite:///roleplay.db",echo=True)
-Base.metadata.create_all(engine)
-
-Session = sessionmaker(engine)
-session  = Session()
+# ================= [ PlayerData Class ] =================== #
+class PlayerData():
+    def __init__(self):
+        self.admin_level = session.query(Player.admin_level).filter(Player.name == GetPlayerName(self,MAX_PLAYER_NAME.get())).one_or_none()[0]
+        self.name = GetPlayerName(self,MAX_PLAYER_NAME.get())
 
 def OnGameModeInit():
     time.sleep(2)
@@ -312,12 +168,12 @@ def OnDialogResponse(playerid, dialogid, response, listitem, inputtext):
         player = Players(name=GetPlayerName(playerid,MAX_PLAYER_NAME.get()),password=ReturnHashed(inputtext))
         session.add(player)
         session.commit()
-        SendClientMessage(playerid,COLOR_WHITE,"You have been registered sucessfully. Please login again to continue.")
+        # SendClientMessage(playerid,COLOR_WHITE,"You have been registered sucessfully. Please login again to continue.")
         ShowPlayerDialog(playerid,DIALOG_LOGIN,DIALOG_STYLE_PASSWORD.get(),"Login","Please enter your password to Login.","Login","Exit")
         return True        
 
     elif(dialogid == DIALOG_LOGIN):
-        sql_password = session.query(Players.password).filter(Players.name == GetPlayerName(playerid,MAX_PLAYER_NAME.get())).one_or_none()[0]
+        sql_password = session.query(Player.password).filter(Player.name == GetPlayerName(playerid,MAX_PLAYER_NAME.get())).one_or_none()[0]
         if(ReturnHashed(inputtext) == sql_password):
             SendClientMessage(playerid,COLOR_WHITE,"You have logged in sucessfully.!") 
             LoadPlayer(playerid)
@@ -383,28 +239,68 @@ def OnThreadingInit():
 def OnThreadingStopSignal():
     return None
 
-# =================== [ OBJECT ORIANTED APPROACH ] ================= #
-
-
 
 # ======================== [ FUNCTIONS ] =========================== #
 
+
+
+
 def IsPlayerRegistered(playerid):
-    if session.query(Players.name).filter(Players.name == GetPlayerName(playerid,MAX_PLAYER_NAME.get())).count():
+    if session.query(Player.name).filter(Player.name == GetPlayerName(playerid,MAX_PLAYER_NAME.get())).count():
         return True
     else:
         return False
 
 def LoadPlayer(playerid):
-    # SpawnPlayer(playerid)
     SendClientMessage(playerid,COLOR_PLAYER_DARKGREEN,"Welcome to our server, please enjoy your stay. <3")
+    playerid = PlayerData()
     return True
 
 def ReturnHashed(password):
     return hashlib.sha256(password).hexdigest()
+
+def GetPlayerAdminLevel(playerid):
+    return playerid.admin_level
+
+
 # ======================= [ COMMANDS ] ============================== #
+
+# === [ ADMIN COMMANDS] === #
+
 @cmd
-def setgm(playerid):
-    SetGameModeText("LaKhWaN OP")
-    SendClientMessage(playerid,COLOR_RED,"Game Mode text setted to: LaKhWaN OP")
+def makeadmin(playerid,targetid,level):
+    if(GetPlayerAdminLevel(playerid) > 5):
+        if not IsPlayerConnected(targetid):
+            SendClientMessage(playerid,COLOR_ERROR,"[ADMIN] That player is not connected.")
+            return True
+        else:
+            playerid.admin_level = level
+            SendClientMessage(playerid,COLOR_RED,f"[ADMIN] You have made {GetPlayerName(targetid,MAX_PLAYER_NAME.get())} admin of level: {level}")
+            return True
+    else:
+        SendClientMessage(playerid,COLOR_ERROR,"[SERVER] You are not allowed to use this command.")
+        return True
+@cmd
+def setgm(playerid,arg1):
+    if(GetPlayerAdminLevel(playerid) > 3):
+        SetGameModeText(arg1)
+        SendClientMessage(playerid,COLOR_RED,"Game Mode text setted to: LaKhWaN OP")
+        return True
+    else:
+        SendClientMessage(playerid,COLOR_ERROR,"[SERCER] You are not allowed to use this command")
+        return True
+@cmd
+def setgm1(playerid,arg1):
+    if(GetPlayerAdminLevel(playerid) > 3):
+        SetGameModeText(arg1.decode())
+        SendClientMessage(playerid,COLOR_RED,"Game Mode text setted to: LaKhWaN OP")
+        return True
+    else:
+        SendClientMessage(playerid,COLOR_ERROR,"[SERVER] You are not allowed to use this command")
+        return True
+
+
+@cmd
+def lakhwanop(playerid):
+    OnPyReload()
     return True
